@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
   27:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****                     ##### How to use this driver #####
   28:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   ==============================================================================
   29:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     [..]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 2
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 2
 
 
   30:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       (#) Fill parameters of Init structure in USB_CfgTypeDef structure.
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
   70:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   /* NOTE : - This function is not required by USB Device FS peripheral, it is used
   71:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****               only by USB OTG FS peripheral.
   72:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             - This function is added to ensure compatibility across platforms.
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 3
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 3
 
 
   73:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****    */
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
   94:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****                    USB_CNTR_SOFM | USB_CNTR_ESOFM |
   95:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****                    USB_CNTR_RESETM | USB_CNTR_L1REQM;
   96:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 4
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 4
 
 
   97:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   /* Set interrupt mask */
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  111 0008 5B04     		lsls	r3, r3, #17
  112 000a 5B0C     		lsrs	r3, r3, #17
  113 000c A0F84030 		strh	r3, [r0, #64]	@ movhi
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 5
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 5
 
 
  121:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  146              		.cfi_endproc
  147              	.LFE953:
  149              		.section	.text.USB_DevInit,"ax",%progbits
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 6
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 6
 
 
  150              		.align	1
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  182              		.loc 1 167 14 is_stmt 0 view .LVU42
  183 0016 ACF84400 		strh	r0, [ip, #68]	@ movhi
  168:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 7
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 7
 
 
  169:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   /*Set Btable Address*/
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  221              		.loc 1 187 47 view .LVU53
  222 0008 30F82C20 		ldrh	r2, [r0, ip, lsl #2]
  223 000c 92B2     		uxth	r2, r2
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 8
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 8
 
 
  224              		.loc 1 187 13 view .LVU54
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  252 0030 23F82C20 		strh	r2, [r3, ip, lsl #2]	@ movhi
  214:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
  215:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   PCD_SET_EP_ADDRESS(USBx, ep->num, ep->num);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 9
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 9
 
 
  253              		.loc 1 215 3 is_stmt 1 view .LVU60
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  300 0076 4FEA4C0C 		lsl	ip, ip, #1
  301 007a A2F800C4 		strh	ip, [r2, #1024]	@ movhi
  302              	.LBE3:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 10
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 10
 
 
  303              		.loc 1 222 7 is_stmt 1 view .LVU79
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  351 00ac 33F82120 		ldrh	r2, [r3, r1, lsl #2]
  352 00b0 92B2     		uxth	r2, r2
  353 00b2 22F4E042 		bic	r2, r2, #28672
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 11
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 11
 
 
  354 00b6 22F04002 		bic	r2, r2, #64
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  206:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
  396              		.loc 1 206 7 view .LVU118
  397 00e0 A2E7     		b	.L9
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 12
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 12
 
 
  398              	.L36:
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  440              	.LVL41:
  441              		.loc 1 239 7 view .LVU134
  442 0112 B1F806C0 		ldrh	ip, [r1, #6]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 13
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 13
 
 
  443              		.loc 1 239 7 is_stmt 0 view .LVU135
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  494 0160 4CEA0E0C 		orr	ip, ip, lr
  495 0164 4CF4004C 		orr	ip, ip, #32768
  496 0168 A2F806C4 		strh	ip, [r2, #1030]	@ movhi
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 14
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 14
 
 
  497              		.loc 1 242 7 is_stmt 1 discriminator 5 view .LVU154
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  545              		.loc 1 248 9 is_stmt 1 view .LVU174
  546              	.LBB14:
  547              		.loc 1 248 9 view .LVU175
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 15
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 15
 
 
  548              		.loc 1 248 9 view .LVU176
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  595 01da B2F80644 		ldrh	r4, [r2, #1030]
  596 01de A4B2     		uxth	r4, r4
  597 01e0 4FEA8C2C 		lsl	ip, ip, #10
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 16
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 16
 
 
  598              	.LVL62:
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  637              		.loc 1 261 8 view .LVU204
  638 0214 022A     		cmp	r2, #2
  639 0216 72D0     		beq	.L38
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 17
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 17
 
 
  262:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     {
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  682              		.loc 1 273 5 discriminator 1 view .LVU221
  683              		.loc 1 273 5 discriminator 1 view .LVU222
  684              		.loc 1 273 5 discriminator 1 view .LVU223
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 18
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 18
 
 
  685              		.loc 1 273 5 discriminator 1 view .LVU224
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  734 028c 22F4E042 		bic	r2, r2, #28672
  735 0290 22F07002 		bic	r2, r2, #112
  736              	.LVL80:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 19
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 19
 
 
  737              		.loc 1 278 7 is_stmt 1 discriminator 1 view .LVU245
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  788 02c6 91F800C0 		ldrb	ip, [r1]	@ zero_extendqisi2
  789 02ca 33F82C20 		ldrh	r2, [r3, ip, lsl #2]
  790 02ce 92B2     		uxth	r2, r2
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 20
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 20
 
 
  791 02d0 22F48042 		bic	r2, r2, #16384
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  296:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       {
  297:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****         /* Configure TX Endpoint to disabled state */
  298:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****         PCD_SET_EP_TX_STATUS(USBx, ep->num, USB_EP_TX_DIS);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 21
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 21
 
 
  299:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  866 0322 12F4804F 		tst	r2, #16384
  867 0326 0CD0     		beq	.L32
  287:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       PCD_CLEAR_TX_DTOG(USBx, ep->num);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 22
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 22
 
 
  868              		.loc 1 287 7 discriminator 1 view .LVU295
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  907              	.LVL105:
  288:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
  908              		.loc 1 288 7 is_stmt 0 discriminator 1 view .LVU311
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 23
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 23
 
 
  909 0352 92B2     		uxth	r2, r2
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  948 0382 42F40042 		orr	r2, r2, #32768
  949              	.LVL111:
  293:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 24
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 24
 
 
  950              		.loc 1 293 9 is_stmt 0 view .LVU327
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  990 03b4 22F4E042 		bic	r2, r2, #28672
  991 03b8 22F04002 		bic	r2, r2, #64
  992              	.LVL117:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 25
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 25
 
 
  298:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  321:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       PCD_CLEAR_TX_DTOG(USBx, ep->num);
  1032              		.loc 1 321 7 is_stmt 1 view .LVU353
  1033              	.LBB34:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 26
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 26
 
 
  1034              		.loc 1 321 7 view .LVU354
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1085              		.loc 1 324 7 is_stmt 1 discriminator 3 view .LVU373
  1086              	.LVL127:
  1087              	.L43:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 27
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 27
 
 
  325:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     }
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  329:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
  1099              		.loc 1 329 7 view .LVU379
  329:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 28
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 28
 
 
  1100              		.loc 1 329 7 view .LVU380
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  332:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     }
  1141              		.loc 1 332 7 discriminator 3 view .LVU394
  332:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 29
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 29
 
 
  1142              		.loc 1 332 7 discriminator 3 view .LVU395
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1181              		.loc 1 342 7 is_stmt 1 discriminator 1 view .LVU410
  1182 00b4 43F44043 		orr	r3, r3, #49152
  1183              	.LVL141:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 30
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 30
 
 
  342:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       PCD_CLEAR_TX_DTOG(USBx, ep->num);
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1223              		.loc 1 343 7 discriminator 1 view .LVU425
  1224              	.LBE43:
  343:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 31
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 31
 
 
  1225              		.loc 1 343 7 is_stmt 1 discriminator 3 view .LVU426
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  348:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       PCD_SET_EP_TX_STATUS(USBx, ep->num, USB_EP_TX_DIS);
  1265              		.loc 1 348 7 is_stmt 1 discriminator 3 view .LVU441
  349:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 32
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 32
 
 
  1266              		.loc 1 349 7 discriminator 3 view .LVU442
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1305 0148 9BB2     		uxth	r3, r3
  1306 014a 23F4E043 		bic	r3, r3, #28672
  1307 014e 23F07003 		bic	r3, r3, #112
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 33
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 33
 
 
  1308              	.LVL157:
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1347 017c 43F0C003 		orr	r3, r3, #192
  1348 0180 20F82230 		strh	r3, [r0, r2, lsl #2]	@ movhi
  1349              	.LVL164:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 34
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 34
 
 
  1350              	.L49:
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1389              	.LVL168:
  359:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       PCD_SET_EP_RX_STATUS(USBx, ep->num, USB_EP_RX_DIS);
  1390              		.loc 1 359 7 is_stmt 0 discriminator 3 view .LVU488
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 35
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 35
 
 
  1391 01b8 20F82230 		strh	r3, [r0, r2, lsl #2]	@ movhi
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  380:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** #endif /* (USE_USB_DOUBLE_BUFFER == 1U) */
  381:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
  382:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   /* IN endpoint */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 36
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 36
 
 
  383:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   if (ep->is_in == 1U)
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  437:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             PCD_SET_EP_DBUF0_CNT(USBx, ep->num, ep->is_in, len);
  438:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr0;
  439:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 37
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 37
 
 
  440:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             /* Write the user buffer to USB PMA */
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  494:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****         {
  495:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           /* Set the Double buffer counter for pmabuffer1 */
  496:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           PCD_SET_EP_DBUF1_CNT(USBx, ep->num, ep->is_in, len);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 38
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 38
 
 
  497:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr1;
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  551:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           if ((((wEPVal & USB_EP_DTOG_RX) != 0U) && ((wEPVal & USB_EP_DTOG_TX) != 0U)) ||
  552:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****               (((wEPVal & USB_EP_DTOG_RX) == 0U) && ((wEPVal & USB_EP_DTOG_TX) == 0U)))
  553:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 39
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 39
 
 
  554:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             PCD_FREE_USER_BUFFER(USBx, ep->num, 0U);
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  598:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     PCD_SET_EP_TX_STATUS(USBx, ep->num, USB_EP_TX_STALL);
  1436              		.loc 1 598 5 is_stmt 1 view .LVU501
  1437              	.LBB54:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 40
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 40
 
 
  1438              		.loc 1 598 5 view .LVU502
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1480              		.loc 1 602 5 view .LVU517
  602:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   }
  1481              		.loc 1 602 5 view .LVU518
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 41
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 41
 
 
  1482 0038 83F48053 		eor	r3, r3, #4096
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  620:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       PCD_CLEAR_TX_DTOG(USBx, ep->num);
  1522              		.loc 1 620 7 is_stmt 1 view .LVU529
  1523              	.LBB56:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 42
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 42
 
 
  1524              		.loc 1 620 7 view .LVU530
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1573              		.loc 1 625 9 view .LVU549
  1574              		.loc 1 625 9 view .LVU550
  1575 0046 83F02003 		eor	r3, r3, #32
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 43
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 43
 
 
  1576              	.LVL188:
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1622              		.loc 1 633 7 discriminator 3 view .LVU567
  1623              	.LBB61:
  1624              		.loc 1 633 7 discriminator 3 view .LVU568
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 44
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 44
 
 
  1625              		.loc 1 633 7 discriminator 3 view .LVU569
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  647:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** {
  1668              		.loc 1 647 1 is_stmt 1 view -0
  1669              		.cfi_startproc
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 45
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 45
 
 
  1670              		@ args = 0, pretend = 0, frame = 0
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1699              	.LVL202:
  1700              		.loc 1 672 9 view .LVU594
  1701              		.loc 1 672 9 view .LVU595
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 46
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 46
 
 
  1702              		.loc 1 672 9 view .LVU596
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  656:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
  1738              		.loc 1 656 9 view .LVU611
  656:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 47
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 47
 
 
  1739              		.loc 1 656 9 view .LVU612
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1780 007e D7E7     		b	.L60
  1781              	.LVL214:
  1782              	.L62:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 48
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 48
 
 
  661:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1822              		@ link register save eliminated.
  1823              		.loc 1 692 1 is_stmt 0 view .LVU635
  1824 0000 0346     		mov	r3, r0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 49
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 49
 
 
  693:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   /* disable all interrupts and force USB reset */
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  714:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   if (address == 0U)
  1860              		.loc 1 714 3 view .LVU646
  1861              		.loc 1 714 6 is_stmt 0 view .LVU647
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 50
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 50
 
 
  1862 0000 11B9     		cbnz	r1, .L66
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  733:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   return HAL_OK;
  1900              		.loc 1 733 3 is_stmt 1 view .LVU657
  734:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 51
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 51
 
 
  1901              		.loc 1 734 1 is_stmt 0 view .LVU658
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1946              	USB_ReadInterrupts:
  1947              	.LVL225:
  1948              	.LFB965:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 52
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 52
 
 
  748:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  1983              		.loc 1 769 3 view .LVU675
  1984              		.loc 1 769 7 is_stmt 0 view .LVU676
  1985 0000 B0F84030 		ldrh	r3, [r0, #64]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 53
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 53
 
 
  1986 0004 9BB2     		uxth	r3, r3
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2027 0012 7047     		bx	lr
  2028              		.cfi_endproc
  2029              	.LFE967:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 54
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 54
 
 
  2031              		.section	.text.USB_WritePMA,"ax",%progbits
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2065              		.loc 1 805 3 is_stmt 1 view .LVU700
  2066              		.loc 1 805 3 is_stmt 0 view .LVU701
  2067 000a 08E0     		b	.L73
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 55
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 55
 
 
  2068              	.LVL237:
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2107              		.thumb_func
  2109              	USB_EPStartXfer:
  2110              	.LVL243:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 56
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 56
 
 
  2111              	.LFB957:
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2149              	.LVL244:
  525:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
  2150              		.loc 1 525 9 view .LVU732
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 57
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 57
 
 
  525:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2190              	.L129:
  533:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     }
  2191              		.loc 1 533 7 discriminator 5 view .LVU748
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 58
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 58
 
 
  2192 004c B3F80624 		ldrh	r2, [r3, #1030]
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2232              		.loc 1 584 10 view .LVU762
  2233 0080 0020     		movs	r0, #0
  2234              	.LVL257:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 59
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 59
 
 
  2235              	.L124:
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2272 009e 2378     		ldrb	r3, [r4]	@ zero_extendqisi2
  2273 00a0 35F82310 		ldrh	r1, [r5, r3, lsl #2]
  493:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****         {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 60
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 60
 
 
  2274              		.loc 1 493 12 view .LVU780
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2312              	.LVL266:
  496:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr1;
  2313              		.loc 1 496 11 discriminator 3 view .LVU797
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 61
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 61
 
 
  2314 00d2 16F01F0F 		tst	r6, #31
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2356 0102 15FA83F3 		uxtah	r3, r5, r3
  2357              	.LVL273:
  399:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 62
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 62
 
 
  2358              		.loc 1 399 7 view .LVU810
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  407:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****         {
  2398              		.loc 1 407 15 is_stmt 0 view .LVU825
  2399 0134 236A     		ldr	r3, [r4, #32]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 63
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 63
 
 
  407:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****         {
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2438              		.loc 1 419 13 view .LVU841
  419:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr1;
  2439              		.loc 1 419 13 view .LVU842
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 64
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 64
 
 
  2440 016c 6278     		ldrb	r2, [r4, #1]	@ zero_extendqisi2
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2479 019a 92B2     		uxth	r2, r2
  2480 019c 8902     		lsls	r1, r1, #10
  2481              	.LVL289:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 65
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 65
 
 
  419:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr1;
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2525              	.LBE80:
  2526              	.LBE79:
  419:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr1;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 66
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 66
 
 
  2527              		.loc 1 419 13 is_stmt 1 discriminator 2 view .LVU869
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2565              		.loc 1 437 13 view .LVU885
  2566 0200 6378     		ldrb	r3, [r4, #1]	@ zero_extendqisi2
  2567 0202 002B     		cmp	r3, #0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 67
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 67
 
 
  2568 0204 45D1     		bne	.L91
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  437:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr0;
  2608              		.loc 1 437 13 is_stmt 0 discriminator 7 view .LVU900
  2609 0236 89B2     		uxth	r1, r1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 68
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 68
 
 
  2610 0238 0A43     		orrs	r2, r2, r1
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  437:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr0;
  2652              		.loc 1 437 13 discriminator 9 view .LVU913
  2653 0262 B3F80224 		ldrh	r2, [r3, #1026]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 69
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 69
 
 
  2654 0266 6FEA4242 		mvn	r2, r2, lsl #17
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2696 0298 2289     		ldrh	r2, [r4, #8]
  2697 029a 6169     		ldr	r1, [r4, #20]
  2698 029c 2846     		mov	r0, r5
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 70
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 70
 
 
  2699 029e FFF7FEFF 		bl	USB_WritePMA
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2738              		.loc 1 446 13 discriminator 1 view .LVU940
  2739 02c6 02EBC303 		add	r3, r2, r3, lsl #3
  2740              	.LVL322:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 71
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 71
 
 
  446:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr0;
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2781 02fc B3F80224 		ldrh	r2, [r3, #1026]
  2782 0300 6FEA4242 		mvn	r2, r2, lsl #17
  2783 0304 6FEA5242 		mvn	r2, r2, lsr #17
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 72
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 72
 
 
  2784 0308 92B2     		uxth	r2, r2
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2826 0336 2846     		mov	r0, r5
  2827              	.LVL333:
  450:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             ep->xfer_buff += len;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 73
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 73
 
 
  2828              		.loc 1 450 13 is_stmt 0 discriminator 18 view .LVU967
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2865 0354 B5F85030 		ldrh	r3, [r5, #80]
  2866 0358 15FA83F3 		uxtah	r3, r5, r3
  2867              	.LVL337:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 74
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 74
 
 
  464:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr1;
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2909              	.LBE90:
  2910              	.LBE89:
  446:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr0;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 75
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 75
 
 
  2911              		.loc 1 446 13 is_stmt 1 discriminator 16 view .LVU998
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  2952 03be A3F80624 		strh	r2, [r3, #1030]	@ movhi
  2953 03c2 0FE0     		b	.L108
  2954              	.L109:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 76
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 76
 
 
  464:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****             pmabuffer = ep->pmaaddr1;
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  468:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           }
  2997              		.loc 1 468 13 is_stmt 0 discriminator 18 view .LVU1024
  2998 03f0 8EE6     		b	.L79
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 77
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 77
 
 
  2999              	.LVL354:
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3040              	.LVL360:
  480:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr0;
  3041              		.loc 1 480 11 view .LVU1038
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 78
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 78
 
 
  480:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr0;
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3083 0452 92B2     		uxth	r2, r2
  3084 0454 A3F80624 		strh	r2, [r3, #1030]	@ movhi
  3085 0458 16E0     		b	.L115
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 79
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 79
 
 
  3086              	.L116:
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  496:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr1;
  3128              		.loc 1 496 11 discriminator 16 view .LVU1064
  3129              	.LBE99:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 80
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 80
 
 
  496:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr1;
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3168 04ac A3F80224 		strh	r2, [r3, #1026]	@ movhi
  505:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr0;
  3169              		.loc 1 505 11 is_stmt 1 discriminator 1 view .LVU1081
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 81
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 81
 
 
  3170 04b0 3E2E     		cmp	r6, #62
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3212 04ec 16F0010F 		tst	r6, #1
  3213 04f0 00D0     		beq	.L123
  505:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr0;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 82
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 82
 
 
  3214              		.loc 1 505 11 discriminator 12 view .LVU1094
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  505:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           pmabuffer = ep->pmaaddr0;
  3255              		.loc 1 505 11 discriminator 18 view .LVU1108
  506:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 83
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 83
 
 
  3256              		.loc 1 506 11 discriminator 18 view .LVU1109
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3298              	.LVL402:
  533:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     }
  3299              		.loc 1 533 7 discriminator 8 view .LVU1122
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 84
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 84
 
 
  3300 0546 12F0010F 		tst	r2, #1
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3340 0570 9942     		cmp	r1, r3
  3341 0572 40F2E680 		bls	.L146
  564:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****           ep->xfer_len -= len;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 85
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 85
 
 
  3342              		.loc 1 564 11 is_stmt 1 view .LVU1137
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  572:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
  3380              		.loc 1 572 9 discriminator 3 view .LVU1154
  3381 059e 13F01F0F 		tst	r3, #31
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 86
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 86
 
 
  3382 05a2 00D1     		bne	.L150
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3421              	.LVL417:
  572:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****       }
  3422              		.loc 1 572 9 discriminator 19 view .LVU1170
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 87
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 87
 
 
  3423 05ca 2178     		ldrb	r1, [r4]	@ zero_extendqisi2
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3464              	.LBE109:
  3465              	.LBE108:
  3466              	.LBE107:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 88
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 88
 
 
  542:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3505              	.L136:
  542:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
  3506              		.loc 1 542 9 discriminator 7 view .LVU1200
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 89
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 89
 
 
  3507 062e B3F80224 		ldrh	r2, [r3, #1026]
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3546              	.LBB117:
  542:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
  3547              		.loc 1 542 9 discriminator 19 view .LVU1216
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 90
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 90
 
 
  542:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3590 068a B3F80224 		ldrh	r2, [r3, #1026]
  3591 068e 6FEA4242 		mvn	r2, r2, lsl #17
  3592 0692 6FEA5242 		mvn	r2, r2, lsr #17
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 91
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 91
 
 
  3593 0696 92B2     		uxth	r2, r2
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  542:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** 
  3637              		.loc 1 542 9 discriminator 28 view .LVU1239
  3638 06d0 5108     		lsrs	r1, r2, #1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 92
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 92
 
 
  3639              	.LVL442:
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3679 06fa 35F82210 		ldrh	r1, [r5, r2, lsl #2]
  3680              	.LVL446:
  551:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****               (((wEPVal & USB_EP_DTOG_RX) == 0U) && ((wEPVal & USB_EP_DTOG_TX) == 0U)))
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 93
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 93
 
 
  3681              		.loc 1 551 11 is_stmt 1 view .LVU1254
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3722              		.loc 1 542 9 discriminator 34 view .LVU1267
  3723 073a 228A     		ldrh	r2, [r4, #16]
  3724 073c A3F80624 		strh	r2, [r3, #1030]	@ movhi
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 94
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 94
 
 
  3725 0740 D6E7     		b	.L142
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3766              		.loc 1 572 9 is_stmt 0 discriminator 14 view .LVU1280
  3767 076e 80B2     		uxth	r0, r0
  3768 0770 8902     		lsls	r1, r1, #10
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 95
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 95
 
 
  3769              	.LVL457:
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3812 07a2 8B02     		lsls	r3, r1, #10
  3813 07a4 9BB2     		uxth	r3, r3
  3814 07a6 0343     		orrs	r3, r3, r0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 96
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 96
 
 
  3815 07a8 A2F80634 		strh	r3, [r2, #1030]	@ movhi
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  821:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c **** /**
  822:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   * @brief Copy data from packet memory area (PMA) to user memory buffer
  823:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   * @param   USBx USB peripheral instance register address.
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 97
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 97
 
 
  824:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****   * @param   pbUsrBuf pointer to user memory area.
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3895              		.loc 1 843 5 is_stmt 1 discriminator 3 view .LVU1317
  844:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_ll_usb.c ****     *pBuf = (uint8_t)((RdVal >> 0) & 0xFFU);
  3896              		.loc 1 844 5 discriminator 3 view .LVU1318
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 98
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 98
 
 
  3897              		.loc 1 844 11 is_stmt 0 discriminator 3 view .LVU1319
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3934              		.cfi_def_cfa_offset 0
  3935              	.LVL482:
  3936              		.loc 1 859 1 view .LVU1335
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 99
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 99
 
 
  3937 002e 7047     		bx	lr
@@ -5891,52 +5891,52 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 1
  3945              		.file 4 "Drivers/CMSIS/Device/ST/STM32WBxx/Include/stm32wb55xx.h"
  3946              		.file 5 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_def.h"
  3947              		.file 6 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_usb.h"
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s 			page 100
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s 			page 100
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32wbxx_ll_usb.c
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:21     .text.USB_CoreInit:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:27     .text.USB_CoreInit:0000000000000000 USB_CoreInit
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:54     .text.USB_EnableGlobalInt:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:60     .text.USB_EnableGlobalInt:0000000000000000 USB_EnableGlobalInt
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:90     .text.USB_DisableGlobalInt:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:96     .text.USB_DisableGlobalInt:0000000000000000 USB_DisableGlobalInt
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:124    .text.USB_SetCurrentMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:130    .text.USB_SetCurrentMode:0000000000000000 USB_SetCurrentMode
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:150    .text.USB_DevInit:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:156    .text.USB_DevInit:0000000000000000 USB_DevInit
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:196    .text.USB_ActivateEndpoint:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:202    .text.USB_ActivateEndpoint:0000000000000000 USB_ActivateEndpoint
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:238    .text.USB_ActivateEndpoint:0000000000000022 $d
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:242    .text.USB_ActivateEndpoint:0000000000000026 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1007   .text.USB_DeactivateEndpoint:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1013   .text.USB_DeactivateEndpoint:0000000000000000 USB_DeactivateEndpoint
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1417   .text.USB_EPSetStall:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1423   .text.USB_EPSetStall:0000000000000000 USB_EPSetStall
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1497   .text.USB_EPClearStall:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1503   .text.USB_EPClearStall:0000000000000000 USB_EPClearStall
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1659   .text.USB_EPStopXfer:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1665   .text.USB_EPStopXfer:0000000000000000 USB_EPStopXfer
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1809   .text.USB_StopDevice:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1815   .text.USB_StopDevice:0000000000000000 USB_StopDevice
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1846   .text.USB_SetDevAddress:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1852   .text.USB_SetDevAddress:0000000000000000 USB_SetDevAddress
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1878   .text.USB_DevConnect:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1884   .text.USB_DevConnect:0000000000000000 USB_DevConnect
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1910   .text.USB_DevDisconnect:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1916   .text.USB_DevDisconnect:0000000000000000 USB_DevDisconnect
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1940   .text.USB_ReadInterrupts:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1946   .text.USB_ReadInterrupts:0000000000000000 USB_ReadInterrupts
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1969   .text.USB_ActivateRemoteWakeup:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:1975   .text.USB_ActivateRemoteWakeup:0000000000000000 USB_ActivateRemoteWakeup
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:2000   .text.USB_DeActivateRemoteWakeup:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:2006   .text.USB_DeActivateRemoteWakeup:0000000000000000 USB_DeActivateRemoteWakeup
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:2032   .text.USB_WritePMA:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:2038   .text.USB_WritePMA:0000000000000000 USB_WritePMA
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:2103   .text.USB_EPStartXfer:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:2109   .text.USB_EPStartXfer:0000000000000000 USB_EPStartXfer
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:3852   .text.USB_ReadPMA:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccUNDxXi.s:3858   .text.USB_ReadPMA:0000000000000000 USB_ReadPMA
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:21     .text.USB_CoreInit:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:27     .text.USB_CoreInit:0000000000000000 USB_CoreInit
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:54     .text.USB_EnableGlobalInt:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:60     .text.USB_EnableGlobalInt:0000000000000000 USB_EnableGlobalInt
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:90     .text.USB_DisableGlobalInt:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:96     .text.USB_DisableGlobalInt:0000000000000000 USB_DisableGlobalInt
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:124    .text.USB_SetCurrentMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:130    .text.USB_SetCurrentMode:0000000000000000 USB_SetCurrentMode
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:150    .text.USB_DevInit:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:156    .text.USB_DevInit:0000000000000000 USB_DevInit
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:196    .text.USB_ActivateEndpoint:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:202    .text.USB_ActivateEndpoint:0000000000000000 USB_ActivateEndpoint
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:238    .text.USB_ActivateEndpoint:0000000000000022 $d
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:242    .text.USB_ActivateEndpoint:0000000000000026 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1007   .text.USB_DeactivateEndpoint:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1013   .text.USB_DeactivateEndpoint:0000000000000000 USB_DeactivateEndpoint
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1417   .text.USB_EPSetStall:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1423   .text.USB_EPSetStall:0000000000000000 USB_EPSetStall
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1497   .text.USB_EPClearStall:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1503   .text.USB_EPClearStall:0000000000000000 USB_EPClearStall
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1659   .text.USB_EPStopXfer:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1665   .text.USB_EPStopXfer:0000000000000000 USB_EPStopXfer
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1809   .text.USB_StopDevice:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1815   .text.USB_StopDevice:0000000000000000 USB_StopDevice
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1846   .text.USB_SetDevAddress:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1852   .text.USB_SetDevAddress:0000000000000000 USB_SetDevAddress
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1878   .text.USB_DevConnect:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1884   .text.USB_DevConnect:0000000000000000 USB_DevConnect
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1910   .text.USB_DevDisconnect:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1916   .text.USB_DevDisconnect:0000000000000000 USB_DevDisconnect
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1940   .text.USB_ReadInterrupts:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1946   .text.USB_ReadInterrupts:0000000000000000 USB_ReadInterrupts
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1969   .text.USB_ActivateRemoteWakeup:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:1975   .text.USB_ActivateRemoteWakeup:0000000000000000 USB_ActivateRemoteWakeup
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:2000   .text.USB_DeActivateRemoteWakeup:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:2006   .text.USB_DeActivateRemoteWakeup:0000000000000000 USB_DeActivateRemoteWakeup
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:2032   .text.USB_WritePMA:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:2038   .text.USB_WritePMA:0000000000000000 USB_WritePMA
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:2103   .text.USB_EPStartXfer:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:2109   .text.USB_EPStartXfer:0000000000000000 USB_EPStartXfer
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:3852   .text.USB_ReadPMA:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccSCXF1T.s:3858   .text.USB_ReadPMA:0000000000000000 USB_ReadPMA
 
 NO UNDEFINED SYMBOLS

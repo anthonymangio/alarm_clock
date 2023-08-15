@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   27:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /* Includes ------------------------------------------------------------------*/
   28:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #include "stm32wbxx.h"
   29:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 2
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 2
 
 
   30:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /** @addtogroup STM32WBxx_LL_Driver
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   84:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   uint32_t PCLK2_Frequency;          /*!< PCLK2 clock frequency  */
   85:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** } LL_RCC_ClocksTypeDef;
   86:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 3
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 3
 
 
   87:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  141:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_CICR_LSI1RDYC               RCC_CICR_LSI1RDYC    /*!< LSI1 Ready Interrupt Clear    
  142:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_CICR_LSI2RDYC               RCC_CICR_LSI2RDYC    /*!< LSI1 Ready Interrupt Clear    
  143:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_CICR_LSERDYC                RCC_CICR_LSERDYC     /*!< LSE Ready Interrupt Clear     
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 4
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 4
 
 
  144:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_CICR_MSIRDYC                RCC_CICR_MSIRDYC     /*!< MSI Ready Interrupt Clear     
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  198:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_CIER_HSIRDYIE               RCC_CIER_HSIRDYIE      /*!< HSI Ready Interrupt Enable  
  199:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_CIER_HSERDYIE               RCC_CIER_HSERDYIE      /*!< HSE Ready Interrupt Enable  
  200:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_CIER_PLLRDYIE               RCC_CIER_PLLRDYIE      /*!< PLL Ready Interrupt Enable  
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 5
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 5
 
 
  201:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #if defined(RCC_HSI48_SUPPORT)
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  255:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @}
  256:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
  257:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 6
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 6
 
 
  258:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /** @defgroup RCC_LL_EC_HSE_SENSE_AMPLIFIER  HSE sense amplifier threshold
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  312:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_SYSCLK_DIV_3                RCC_CFGR_HPRE_0                                         
  313:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_SYSCLK_DIV_4                (RCC_CFGR_HPRE_3 | RCC_CFGR_HPRE_0)                     
  314:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_SYSCLK_DIV_5                RCC_CFGR_HPRE_1                                         
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 7
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 7
 
 
  315:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_SYSCLK_DIV_6                (RCC_CFGR_HPRE_2 | RCC_CFGR_HPRE_0)                     
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  369:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_MCO1SOURCE_PLLCLK           (RCC_CFGR_MCOSEL_0|RCC_CFGR_MCOSEL_2)         /*!< Main 
  370:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_MCO1SOURCE_LSI1             (RCC_CFGR_MCOSEL_1|RCC_CFGR_MCOSEL_2)         /*!< LSI1 
  371:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_MCO1SOURCE_LSI2             (RCC_CFGR_MCOSEL_0|RCC_CFGR_MCOSEL_1|RCC_CFGR_MCOSEL_2) 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 8
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 8
 
 
  372:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_MCO1SOURCE_LSE              RCC_CFGR_MCOSEL_3                             /*!< LSE s
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  426:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
  427:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #if defined(USE_FULL_LL_DRIVER)
  428:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /** @defgroup RCC_LL_EC_PERIPH_FREQUENCY Peripheral clock frequency
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 9
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 9
 
 
  429:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @{
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  483:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_LPTIM1_CLKSOURCE_LSE        (uint32_t)(RCC_CCIPR_LPTIM1SEL | (RCC_CCIPR_LPTIM1SEL >>
  484:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_LPTIM2_CLKSOURCE_PCLK1      (uint32_t)(RCC_CCIPR_LPTIM2SEL | (0x00000000U >> 16))   
  485:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_LPTIM2_CLKSOURCE_LSI        (uint32_t)(RCC_CCIPR_LPTIM2SEL | (RCC_CCIPR_LPTIM2SEL_0 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 10
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 10
 
 
  486:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_LPTIM2_CLKSOURCE_HSI        (uint32_t)(RCC_CCIPR_LPTIM2SEL | (RCC_CCIPR_LPTIM2SEL_1 
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  540:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_ADC_CLKSOURCE_PLLSAI1          RCC_CCIPR_ADCSEL_0 /*!< PLLSAI1 selected as ADC clock
  541:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #elif defined (STM32WB15xx) || defined(STM32WB1Mxx)
  542:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_ADC_CLKSOURCE_HSI              RCC_CCIPR_ADCSEL_0 /*!< HSI selected as ADC clock    
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 11
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 11
 
 
  543:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #endif /* STM32WB55xx || STM32WB5Mxx || STM32WB35xx */
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  597:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #if defined(SAI1)
  598:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /** @defgroup RCC_LL_EC_SAI1 SAI1
  599:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @{
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 12
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 12
 
 
  600:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  654:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
  655:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_RFWKP_CLKSOURCE_NONE          0x00000000U                 /*!< No clock used as RF W
  656:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_RFWKP_CLKSOURCE_LSE           RCC_CSR_RFWKPSEL_0          /*!< LSE oscillator clock 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 13
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 13
 
 
  657:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #if defined(STM32WB15xx) || defined(STM32WB10xx)
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  711:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_PLLP_DIV_3                  (RCC_PLLCFGR_PLLP_1)                                    
  712:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_PLLP_DIV_4                  (RCC_PLLCFGR_PLLP_0|RCC_PLLCFGR_PLLP_1)                 
  713:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_PLLP_DIV_5                  (RCC_PLLCFGR_PLLP_2)                                    
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 14
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 14
 
 
  714:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_PLLP_DIV_6                  (RCC_PLLCFGR_PLLP_0|RCC_PLLCFGR_PLLP_2)                 
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  768:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_PLLSAI1Q_DIV_6              (RCC_PLLSAI1CFGR_PLLQ_2 | RCC_PLLSAI1CFGR_PLLQ_0)       
  769:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_PLLSAI1Q_DIV_7              (RCC_PLLSAI1CFGR_PLLQ_2 | RCC_PLLSAI1CFGR_PLLQ_1)       
  770:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define LL_RCC_PLLSAI1Q_DIV_8              (RCC_PLLSAI1CFGR_PLLQ_2 | RCC_PLLSAI1CFGR_PLLQ_1 | RCC_P
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 15
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 15
 
 
  771:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  825:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
  826:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #endif /* SAI1 */
  827:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 16
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 16
 
 
  828:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  882:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLR_DIV_5
  883:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLR_DIV_6
  884:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLR_DIV_7
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 17
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 17
 
 
  885:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLR_DIV_8
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  939:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
  940:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #define __LL_RCC_CALC_PLLCLK_SAI_FREQ(__INPUTFREQ__, __PLLM__, __PLLN__, __PLLP__) ((__INPUTFREQ__)
  941:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****     (((__PLLP__) >> RCC_PLLCFGR_PLLP_Pos) + 1U))
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 18
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 18
 
 
  942:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** #endif /* SAI1 */
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  996:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
  997:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
  998:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Helper macro to calculate the PLLQCLK frequency used on 48M domain
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 19
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 19
 
 
  999:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @note ex: @ref __LL_RCC_CALC_PLLCLK_48M_FREQ (HSE_VALUE,@ref LL_RCC_PLL_GetDivider (),
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1053:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_13
 1054:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_14
 1055:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_15
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 20
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 20
 
 
 1056:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_16
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1110:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @note ex: @ref __LL_RCC_CALC_PLLSAI1_ADC_FREQ (HSE_VALUE,@ref LL_RCC_PLL_GetDivider (),
 1111:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *             @ref LL_RCC_PLLSAI1_GetN (), @ref LL_RCC_PLLSAI1_GetR ());
 1112:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @param  __INPUTFREQ__ PLL Input frequency (based on MSI/HSE/HSI)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 21
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 21
 
 
 1113:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @param  __PLLM__ This parameter can be one of the following values:
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1167:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_3
 1168:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_4
 1169:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_5
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 22
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 22
 
 
 1170:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_6
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1224:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @param  __HCLKFREQ__ HCLK frequency
 1225:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @param  __APB2PRESCALER__ This parameter can be one of the following values:
 1226:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_APB2_DIV_1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 23
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 23
 
 
 1227:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_APB2_DIV_2
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1281:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
 1282:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
 1283:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 24
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 24
 
 
 1284:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Disable HSE sysclk and pll prescaler
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1338:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_HSE_IsReady(void)
 1339:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
 1340:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   return ((READ_BIT(RCC->CR, RCC_CR_HSERDY) == (RCC_CR_HSERDY)) ? 1UL : 0UL);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 25
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 25
 
 
 1341:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1395:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Get HSE current control
 1396:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll HSECR        HSEGMC       LL_RCC_HSE_GetCurrentControl
 1397:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval Returned value can be one of the following values:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 26
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 26
 
 
 1398:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_HSE_CURRENTMAX_0
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1452:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   SET_BIT(RCC->CR, RCC_CR_HSIKERON);
 1453:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
 1454:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 27
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 27
 
 
 1455:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1509:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
 1510:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_HSI_EnableAutoFromStop(void)
 1511:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 28
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 28
 
 
 1512:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   SET_BIT(RCC->CR, RCC_CR_HSIASFS);
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1566:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @{
 1567:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
 1568:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 29
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 29
 
 
 1569:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1623:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_LSE_Enable(void)
 1624:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
 1625:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   SET_BIT(RCC->BDCR, RCC_BDCR_LSEON);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 30
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 30
 
 
 1626:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1680:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
 1681:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   MODIFY_REG(RCC->BDCR, RCC_BDCR_LSEDRV, LSEDrive);
 1682:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 31
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 31
 
 
 1683:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1737:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   return ((READ_BIT(RCC->BDCR, RCC_BDCR_LSECSSD) == (RCC_BDCR_LSECSSD)) ? 1UL : 0UL);
 1738:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
 1739:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 32
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 32
 
 
 1740:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1794:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
 1795:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
 1796:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 33
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 33
 
 
 1797:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Disable LSI2 Oscillator
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1851:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
 1852:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   SET_BIT(RCC->CR, RCC_CR_MSION);
 1853:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 34
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 34
 
 
 1854:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1908:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSIRANGE_2
 1909:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSIRANGE_3
 1910:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSIRANGE_4
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 35
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 35
 
 
 1911:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_MSIRANGE_5
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1965:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
 1966:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Set MSI Calibration trimming
 1967:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @note user-programmable trimming value that is added to the MSICAL
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 36
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 36
 
 
 1968:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll ICSCR        MSITRIM       LL_RCC_MSI_SetCalibTrimming
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2022:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
 2023:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_LSCO_SetSource(uint32_t Source)
 2024:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 37
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 37
 
 
 2025:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   MODIFY_REG(RCC->BDCR, RCC_BDCR_LSCOSEL, Source);
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2079:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll EXTCFGR         RFCSS           LL_RCC_GetRFClockSource
 2080:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval Returned value can be one of the following values:
 2081:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_RF_CLKSOURCE_HSI
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 38
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 38
 
 
 2082:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_RF_CLKSOURCE_HSE_DIV2
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2136:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_1
 2137:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_2
 2138:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_3
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 39
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 39
 
 
 2139:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_4
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2193:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_10
 2194:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_16
 2195:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_32
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 40
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 40
 
 
 2196:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_64
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2250:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_10
 2251:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_16
 2252:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_32
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 41
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 41
 
 
 2253:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_SYSCLK_DIV_64
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2307:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
 2308:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   return (uint32_t)(READ_BIT(RCC->EXTCFGR, RCC_EXTCFGR_SHDHPRE) << 4);
 2309:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 42
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 42
 
 
 2310:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2364:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
 2365:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
 2366:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 43
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 43
 
 
 2367:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @}
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2421:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
 2422:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Set SMPS prescaler
 2423:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll SMPSCR         SMPSDIV          LL_RCC_SetSMPSPrescaler
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 44
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 44
 
 
 2424:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @param  Prescaler This parameter can be one of the following values:
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2478:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_MCO1_DIV_4
 2479:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_MCO1_DIV_8
 2480:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_MCO1_DIV_16
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 45
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 45
 
 
 2481:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @note   (*) Value not defined for all devices
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2535:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_I2C1_CLKSOURCE_HSI
 2536:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_I2C3_CLKSOURCE_PCLK1 (*)
 2537:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_I2C3_CLKSOURCE_SYSCLK (*)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 46
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 46
 
 
 2538:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_I2C3_CLKSOURCE_HSI (*)
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   19:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * If no LICENSE file comes with this software, it is provided AS-IS.
   20:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *
   21:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   ******************************************************************************
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 47
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 47
 
 
   22:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   */
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   76:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** #if defined(SAI1)
   77:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** static HAL_StatusTypeDef RCCEx_PLLSAI1_ConfigNP(RCC_PLLSAI1InitTypeDef *PLLSAI1);
   78:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** static HAL_StatusTypeDef RCCEx_PLLSAI1_ConfigNQ(RCC_PLLSAI1InitTypeDef *PLLSAI1);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 48
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 48
 
 
   79:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** static HAL_StatusTypeDef RCCEx_PLLSAI1_ConfigNR(RCC_PLLSAI1InitTypeDef *PLLSAI1);
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  133:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_PERIPHCLK_SAI1     SAI1 peripheral clock
  134:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_PERIPHCLK_USB      USB peripheral clock
  135:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_PERIPHCLK_RNG      RNG peripheral clock
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 49
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 49
 
 
  136:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_PERIPHCLK_ADC      ADC peripheral clock
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  190:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  191:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     if (ret == HAL_OK)
  192:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 50
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 50
 
 
  193:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       /* Set the source of SAI1 clock*/
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  247:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****           {
  248:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****             if ((HAL_GetTick() - tickstart) > RCC_LSE_TIMEOUT_VALUE)
  249:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****             {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 51
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 51
 
 
  250:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****               ret = HAL_TIMEOUT;
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  304:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   /*-------------------------- I2C1 clock source configuration ---------------------*/
  305:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   if (((PeriphClkInit->PeriphClockSelection) & RCC_PERIPHCLK_I2C1) == RCC_PERIPHCLK_I2C1)
  306:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 52
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 52
 
 
  307:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* Check the parameters */
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  361:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     __HAL_RCC_RNG_CONFIG(PeriphClkInit->RngClockSelection);
  362:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  363:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     if (PeriphClkInit->RngClockSelection == RCC_RNGCLKSOURCE_PLL)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 53
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 53
 
 
  364:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  418:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  419:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* Configure the SMPS interface clock division factor */
  420:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     __HAL_RCC_SMPS_DIV_CONFIG(PeriphClkInit->SmpsDivSelection);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 54
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 54
 
 
  421:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  475:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  476:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   /* Get the USART1 clock source ---------------------------------------------*/
  477:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   PeriphClkInit->Usart1ClockSelection   = __HAL_RCC_GET_USART1_SOURCE();
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 55
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 55
 
 
  478:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  532:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @note   Return 0 if peripheral clock identifier not managed by this API
  533:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @param  PeriphClk  Peripheral clock identifier
  534:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *         This parameter can be one of the following values:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 56
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 56
 
 
  535:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_PERIPHCLK_RTC  RTC peripheral clock
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  589:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     else if (rtcClockSource == LL_RCC_RTC_CLKSOURCE_HSE_DIV32) /* HSE clock used as RTC clock sourc
  590:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
  591:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       frequency = HSE_VALUE / 32U;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 57
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 57
 
 
  592:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  646:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     if (rngClockSource == RCC_RNGCLKSOURCE_LSI)             /* LSI clock used as RNG clock source *
  647:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
  648:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       const uint32_t temp_lsi1ready = LL_RCC_LSI1_IsReady();
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 58
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 58
 
 
  649:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       const uint32_t temp_lsi2ready = LL_RCC_LSI2_IsReady();
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  703:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
  704:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** #endif /* SAI1 */
  705:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     else                                                    /* HSI48 clock divided by 3 used as RNG
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 59
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 59
 
 
  706:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  760:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  761:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       default: /* HSI48 clock used as USB clock source */
  762:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         if (LL_RCC_HSI48_IsReady() == 1U)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 60
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 60
 
 
  763:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         {
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  817:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         frequency = HAL_RCC_GetSysClockFreq();
  818:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         break;
  819:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 61
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 61
 
 
  820:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       case LL_RCC_LPUART1_CLKSOURCE_HSI:    /* LPUART1 Clock is HSI Osc. */
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  874:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         }
  875:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         break;
  876:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** #endif /* STM32WB55xx || STM32WB5Mxx || STM32WB35xx */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 62
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 62
 
 
  877:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       case LL_RCC_ADC_CLKSOURCE_SYSCLK:        /* SYSCLK clock used as ADC clock source */
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  931:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         if (LL_RCC_HSI_IsReady() == 1U)
  932:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         {
  933:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****           frequency = HSI_VALUE;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 63
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 63
 
 
  934:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         }
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  988:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     else /* LPTIM1 Clock is PCLK1 */
  989:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
  990:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       frequency = __LL_RCC_CALC_PCLK1_FREQ(__LL_RCC_CALC_HCLK1_FREQ(HAL_RCC_GetSysClockFreq(),
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 64
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 64
 
 
  991:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****                                                                     LL_RCC_GetAHBPrescaler()),
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1045:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     if (rfwkpClockSource == LL_RCC_RFWKP_CLKSOURCE_LSE) /* LSE clock used as RF Wakeup clock source
 1046:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
 1047:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       if (LL_RCC_LSE_IsReady() == 1U)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 65
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 65
 
 
 1048:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1102:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****           frequency = __LL_RCC_CALC_MSI_FREQ(LL_RCC_MSIRANGE_9) / SmpsPrescalerTable[smps_prescaler
 1103:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****           break;
 1104:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         case LL_RCC_MSIRANGE_10:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 66
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 66
 
 
 1105:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****           frequency = __LL_RCC_CALC_MSI_FREQ(LL_RCC_MSIRANGE_10) / SmpsPrescalerTable[smps_prescale
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1159:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *
 1160:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** @verbatim
 1161:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****  ===============================================================================
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 67
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 67
 
 
 1162:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****                 ##### Extended clock management functions  #####
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1216:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     __HAL_RCC_PLLSAI1_ENABLE();
 1217:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
 1218:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* Get Start Tick*/
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 68
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 68
 
 
 1219:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     tickstart = HAL_GetTick();
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1273:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_STOP_WAKEUPCLOCK_MSI  MSI oscillator selection
 1274:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_STOP_WAKEUPCLOCK_HSI  HSI oscillator selection
 1275:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @note   This function shall not be called after the Clock Security System on HSE has been
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 69
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 69
 
 
 1276:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *         enabled.
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1330:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @brief Handle the RCC LSE Clock Security System interrupt request.
 1331:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @retval None
 1332:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 70
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 70
 
 
 1333:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** void HAL_RCCEx_LSECSS_IRQHandler(void)
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1387:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
 1388:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* LSCO1 Clock Enable */
 1389:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     __LSCO1_CLK_ENABLE();
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 71
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 71
 
 
 1390:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* Configure the LSCO1 pin in alternate function mode */
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1444:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *          This parameter can be one of the following values:
 1445:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_LSCOSOURCE_LSI  LSI clock selected as LSCO source
 1446:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *            @arg @ref RCC_LSCOSOURCE_LSE  LSE clock selected as LSCO source
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 72
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 72
 
 
 1447:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @retval None
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1501:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** #define FTLSI2TRIM (0xFUL)
 1502:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   HAL_StatusTypeDef status = HAL_OK;
 1503:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 73
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 73
 
 
 1504:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   assert_param(IS_RCC_TRIMOSC(OscillatorType));
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1558:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****            precision after waking up from Sleep mode, the LSE or reference clock on the GPIOs
 1559:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****            should be used as SYNC signal.
 1560:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 74
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 74
 
 
 1561:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****           (##) A polling function is provided to wait for complete synchronization
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1615:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   __HAL_RCC_CRS_FORCE_RESET();
 1616:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   __HAL_RCC_CRS_RELEASE_RESET();
 1617:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 75
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 75
 
 
 1618:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   /* Set the SYNCDIV[2:0] bits according to Prescaler value */
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1672:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @param  Timeout  Duration of the timeout
 1673:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @note   Timeout is based on the maximum time to receive a SYNC event based on synchronization
 1674:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *         frequency.
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 76
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 76
 
 
 1675:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @note   If Timeout set to HAL_MAX_DELAY, HAL_TIMEOUT will be never returned.
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1729:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       /* Clear CRS Error bit */
 1730:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       __HAL_RCC_CRS_CLEAR_FLAG(RCC_CRS_FLAG_TRIMOVF);
 1731:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 77
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 77
 
 
 1732:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1786:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
 1787:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* Clear CRS SYNCWARN flag */
 1788:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     LL_CRS_ClearFlag_SYNCWARN();
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 78
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 78
 
 
 1789:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1843:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   */
 1844:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** __weak void HAL_RCCEx_CRS_SyncWarnCallback(void)
 1845:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 79
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 79
 
 
 1846:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   /* NOTE : This function should not be modified, when the callback is needed,
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1900:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @note   PLLSAI1 is temporary disable to apply new parameters
 1901:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   *
 1902:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @retval HAL status
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 80
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 80
 
 
 1903:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   */
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1957:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       __HAL_RCC_PLLSAI1CLKOUT_ENABLE(PLLSAI1->PLLSAI1ClockOut);
 1958:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
 1959:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 81
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 81
 
 
 1960:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2014:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
 2015:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       if ((HAL_GetTick() - tickstart) > PLLSAI1_TIMEOUT_VALUE)
 2016:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 82
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 82
 
 
 2017:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         status = HAL_TIMEOUT;
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2071:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* Configure the PLLSAI1 Division factor R */
 2072:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     __HAL_RCC_PLLSAI1_DIVR_CONFIG(PLLSAI1->PLLR);
 2073:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 83
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 83
 
 
 2074:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* Enable the PLLSAI1 again by setting PLLSAI1ON to 1*/
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2550:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @param  LPTIMxSource This parameter can be one of the following values:
 2551:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_LPTIM1_CLKSOURCE_PCLK1
 2552:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_LPTIM1_CLKSOURCE_LSI
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 84
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 84
 
 
 2553:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_LPTIM1_CLKSOURCE_HSI
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2607:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval None
 2608:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
 2609:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_SetCLK48ClockSource(uint32_t CLK48xSource)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 85
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 85
 
 
 2610:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2664:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_ADC_CLKSOURCE_PLLSAI1 (*)
 2665:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_ADC_CLKSOURCE_PLL
 2666:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_ADC_CLKSOURCE_SYSCLK
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 86
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 86
 
 
 2667:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_ADC_CLKSOURCE_HSI (*)
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2721:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_I2C3_CLKSOURCE_PCLK1 (*)
 2722:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_I2C3_CLKSOURCE_SYSCLK (*)
 2723:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_I2C3_CLKSOURCE_HSI (*)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 87
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 87
 
 
 2724:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @note   (*) Value not defined for all devices
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2778:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_RNG_CLKSOURCE_LSE
 2779:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
 2780:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_GetRNGClockSource(uint32_t RNGx)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 88
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 88
 
 
 2781:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2835:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   return (uint32_t)(READ_BIT(RCC->CCIPR, ADCx));
 2836:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
 2837:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 89
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 89
 
 
 2838:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2892:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
 2893:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_DisableRTC(void)
 2894:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 90
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 90
 
 
 2895:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   CLEAR_BIT(RCC->BDCR, RCC_BDCR_RTCEN);
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2949:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @note Cannot be disabled if the PLL clock is used as the system clock
 2950:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll CR           PLLON         LL_RCC_PLL_Disable
 2951:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval None
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 91
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 91
 
 
 2952:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3006:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
 3007:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Configure PLL used for SAI domain clock
 3008:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @note PLL Source and PLLM Divider can be written only when PLL is disabled
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 92
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 92
 
 
 3009:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *       PLLSAI1 are disabled
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3063:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
 3064:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE void LL_RCC_PLL_ConfigDomain_SAI(uint32_t Source, uint32_t PLLM, uint32_t PLLN, uin
 3065:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 93
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 93
 
 
 3066:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   MODIFY_REG(RCC->PLLCFGR, RCC_PLLCFGR_PLLSRC | RCC_PLLCFGR_PLLM | RCC_PLLCFGR_PLLN | RCC_PLLCFGR_P
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3120:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLP_DIV_26
 3121:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLP_DIV_27
 3122:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLP_DIV_28
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 94
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 94
 
 
 3123:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLP_DIV_29
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3177:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Get Main PLL multiplication factor for VCO
 3178:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll PLLCFGR      PLLN          LL_RCC_PLL_GetN
 3179:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval Between 6 and 127
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 95
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 95
 
 
 3180:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3234:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLQ_DIV_3
 3235:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLQ_DIV_4
 3236:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLQ_DIV_5
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 96
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 96
 
 
 3237:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLQ_DIV_6
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3291:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
 3292:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
 3293:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 97
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 97
 
 
 3294:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Disable PLL output mapped on SAI domain clock
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3348:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
 3349:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Enable PLL output mapped on 48MHz domain clock
 3350:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll PLLCFGR      PLLQEN        LL_RCC_PLL_EnableDomain_48M
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 98
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 98
 
 
 3351:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval None
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3405:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll PLLCFGR      RCC_PLLCFGR_PLLREN        LL_RCC_PLL_LL_RCC_PLL_IsEnabledDomain_SYSIsEnabl
 3406:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval State of bit (1 or 0).
 3407:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 99
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 99
 
 
 3408:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_PLL_IsEnabledDomain_SYS(void)
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3462:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @param  Source This parameter can be one of the following values:
 3463:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSOURCE_NONE
 3464:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSOURCE_MSI
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 100
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 100
 
 
 3465:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSOURCE_HSI
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3519:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_2
 3520:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_3
 3521:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_4
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 101
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 101
 
 
 3522:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_5
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3576:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLM_DIV_2
 3577:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLM_DIV_3
 3578:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLM_DIV_4
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 102
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 102
 
 
 3579:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLM_DIV_5
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3633:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_20
 3634:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_21
 3635:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_22
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 103
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 103
 
 
 3636:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSAI1P_DIV_23
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3690:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Enable PLLSAI1 output mapped on SAI domain clock
 3691:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @rmtoll PLLSAI1CFGR  PLLPEN    LL_RCC_PLLSAI1_EnableDomain_SAI
 3692:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval None
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 104
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 104
 
 
 3693:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3747:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
 3748:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** __STATIC_INLINE uint32_t LL_RCC_PLLSAI1_IsEnabledDomain_48M(void)
 3749:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 105
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 105
 
 
 3750:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   return ((READ_BIT(RCC->PLLSAI1CFGR, RCC_PLLSAI1CFGR_PLLQEN) == (RCC_PLLSAI1CFGR_PLLQEN)) ? 1UL : 
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3804:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
 3805:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
 3806:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 106
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 106
 
 
 3807:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @brief  Clear LSI2 ready interrupt flag
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3861:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSOURCE_HSI
 3862:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   *         @arg @ref LL_RCC_PLLSOURCE_HSE
 3863:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   * @retval None
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 107
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 107
 
 
 3864:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   */
@@ -6418,7 +6418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2131:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
 2132:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         pllinputfreq = HSE_VALUE;
 2133:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 108
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 108
 
 
 2134:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       break;
@@ -6478,7 +6478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  127              	.LBB392:
 1944:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   if (msiRange > LL_RCC_MSIRANGE_11)
  128              		.loc 2 1944 3 view .LVU29
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 109
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 109
 
 
 1944:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   if (msiRange > LL_RCC_MSIRANGE_11)
@@ -6538,7 +6538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  167              	.LBE394:
  168              		.loc 1 2140 10 view .LVU45
  169 004e 03FB00F0 		mul	r0, r3, r0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 110
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 110
 
 
  170              	.LVL12:
@@ -6598,7 +6598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2126:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
  213              		.loc 1 2126 7 is_stmt 1 view .LVU58
  214              	.LBB401:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 111
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 111
 
 
  215              	.LBI401:
@@ -6658,7 +6658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  258 0090 0024F400 		.word	16000000
  259 0094 0048E801 		.word	32000000
  260              		.cfi_endproc
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 112
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 112
 
 
  261              	.LFE980:
@@ -6718,7 +6718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2159:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
 2160:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     case LL_RCC_PLLSOURCE_MSI:  /* MSI used as PLL clock source */
 2161:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       pllinputfreq = __LL_RCC_CALC_MSI_FREQ(LL_RCC_MSI_GetRange());
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 113
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 113
 
 
 2162:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       break;
@@ -6778,7 +6778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  325 0024 1B09     		lsrs	r3, r3, #4
  326              		.loc 1 2181 20 view .LVU91
  327 0026 194A     		ldr	r2, .L30
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 114
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 114
 
 
  328 0028 52F82300 		ldr	r0, [r2, r3, lsl #2]
@@ -6838,7 +6838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  366              		.loc 1 2184 3 view .LVU106
  367              	.LBB412:
  368              	.LBI412:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 115
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 115
 
 
 3181:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
@@ -6898,7 +6898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  411              	.L29:
  412              	.LBB418:
  413              	.LBB411:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 116
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 116
 
 
 1947:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   }
@@ -6958,7 +6958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  455              	.LBE408:
  456              	.LBE421:
 2158:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 117
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 117
 
 
  457              		.loc 1 2158 3 view .LVU134
@@ -7018,7 +7018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  497 0004 DB68     		ldr	r3, [r3, #12]
  498              		.loc 2 3881 10 view .LVU143
  499 0006 03F00303 		and	r3, r3, #3
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 118
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 118
 
 
  500              	.LVL40:
@@ -7078,7 +7078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1945:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   {
  525              		.loc 2 1945 3 is_stmt 1 view .LVU152
 1945:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 119
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 119
 
 
  526              		.loc 2 1945 6 is_stmt 0 view .LVU153
@@ -7138,7 +7138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  567              	.LBE428:
  568              	.LBE427:
 2205:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       break;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 120
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 120
 
 
  569              		.loc 1 2205 22 view .LVU169
@@ -7198,7 +7198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  610              		.loc 2 3685 3 view .LVU183
 3685:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  611              		.loc 2 3685 21 is_stmt 0 view .LVU184
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 121
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 121
 
 
  612 005e 1369     		ldr	r3, [r2, #16]
@@ -7258,7 +7258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  654              	.LVL55:
  655              	.L43:
  656              	.LBB439:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 122
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 122
 
 
  657              	.LBB426:
@@ -7318,7 +7318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  699              		.loc 1 2238 3 view .LVU204
 2239:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
 2240:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   /* PLLSAI1_VCO = (HSE_VALUE or HSI_VALUE or MSI Value/ PLLM) * PLLSAI1N */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 123
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 123
 
 
 2241:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   /* SAI Domain clock  = PLLSAI1_VCO / PLLSAI1P */
@@ -7378,7 +7378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  726              	.LBB443:
 1944:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   if (msiRange > LL_RCC_MSIRANGE_11)
  727              		.loc 2 1944 3 view .LVU214
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 124
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 124
 
 
 1944:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   if (msiRange > LL_RCC_MSIRANGE_11)
@@ -7438,7 +7438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  768 0034 03F0F003 		and	r3, r3, #240
  769              	.LVL66:
 1945:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 125
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 125
 
 
  770              		.loc 2 1945 3 is_stmt 1 view .LVU231
@@ -7498,7 +7498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  809              		.loc 2 3279 21 is_stmt 0 view .LVU246
  810 0052 D368     		ldr	r3, [r2, #12]
  811              	.LBE451:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 126
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 126
 
 
  812              	.LBE450:
@@ -7558,7 +7558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  854              	.LVL73:
 1300:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  855              		.loc 2 1300 12 view .LVU260
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 127
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 127
 
 
  856 0074 1B68     		ldr	r3, [r3]
@@ -7618,7 +7618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2273:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** /**
 2274:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @brief  Return PLLSAI1 clock (PLLSAI1QCLK) frequency used for 48Mhz domain
 2275:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   * @retval PLLSAI1QCLK clock frequency (in Hz)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 128
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 128
 
 
 2276:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   */
@@ -7678,7 +7678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2300:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       }
 2301:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       else
 2302:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 129
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 129
 
 
 2303:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         pllinputfreq = HSE_VALUE;
@@ -7738,7 +7738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1942:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  970              		.loc 2 1942 26 view .LVU292
  971              	.LBB464:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 130
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 130
 
 
 1944:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   if (msiRange > LL_RCC_MSIRANGE_11)
@@ -7798,7 +7798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1009 004a C3F30623 		ubfx	r3, r3, #8, #7
  1010              	.LBE467:
  1011              	.LBE466:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 131
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 131
 
 
  1012              		.loc 1 2311 10 view .LVU309
@@ -7858,7 +7858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1055              	.LBE465:
  1056              	.LBE472:
 2297:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 132
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 132
 
 
  1057              		.loc 1 2297 7 is_stmt 1 view .LVU322
@@ -7918,7 +7918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1100              	.L75:
  1101 008c 00000000 		.word	MSIRangeTable
  1102 0090 0024F400 		.word	16000000
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 133
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 133
 
 
  1103 0094 0048E801 		.word	32000000
@@ -7978,7 +7978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1147              		.loc 1 1918 15 is_stmt 0 view .LVU345
  1148 0010 FFF7FEFF 		bl	HAL_GetTick
  1149              	.LVL99:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 134
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 134
 
 
 1918:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
@@ -8038,7 +8038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1189              		.loc 1 1930 3 is_stmt 1 view .LVU360
 1930:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
  1190              		.loc 1 1930 6 is_stmt 0 view .LVU361
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 135
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 135
 
 
  1191 0032 0CB1     		cbz	r4, .L85
@@ -8098,7 +8098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1234              	.LBI482:
 3447:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  1235              		.loc 2 3447 26 view .LVU373
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 136
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 136
 
 
  1236              	.LBB483:
@@ -8158,7 +8158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1281              	.LFB978:
 1974:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   uint32_t tickstart;
  1282              		.loc 1 1974 1 view -0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 137
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 137
 
 
  1283              		.cfi_startproc
@@ -8218,7 +8218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1323              	.LBI486:
 3447:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  1324              		.loc 2 3447 26 view .LVU400
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 138
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 138
 
 
  1325              	.LBB487:
@@ -8278,7 +8278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1365              	.L94:
 2002:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     /* Configure the PLLSAI1 Division factor Q */
  1366              		.loc 1 2002 5 is_stmt 1 view .LVU415
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 139
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 139
 
 
  1367 0038 4FF0B043 		mov	r3, #1476395008
@@ -8338,7 +8338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1409 006e 05D1     		bne	.L90
  1410              	.LBE491:
  1411              	.LBE490:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 140
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 140
 
 
 2015:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
@@ -8398,7 +8398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1458              		.cfi_offset 14, -4
  1459 0002 0546     		mov	r5, r0
 2043:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   HAL_StatusTypeDef status = HAL_OK;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 141
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 141
 
 
  1460              		.loc 1 2043 3 is_stmt 1 view .LVU438
@@ -8458,7 +8458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1498 0020 06D0     		beq	.L101
  1499              	.LBE495:
  1500              	.LBE494:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 142
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 142
 
 
 2060:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
@@ -8518,7 +8518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1542 0050 E968     		ldr	r1, [r5, #12]
  1543 0052 0A43     		orrs	r2, r2, r1
  1544 0054 1A61     		str	r2, [r3, #16]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 143
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 143
 
 
 2075:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
@@ -8578,7 +8578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1584              		.loc 1 2083 10 view .LVU482
  1585 0076 0228     		cmp	r0, #2
  1586 0078 F4D9     		bls	.L100
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 144
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 144
 
 
 2085:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         break;
@@ -8638,7 +8638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1632              		.loc 1 158 3 view .LVU493
  158:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
  1633              		.loc 1 158 23 is_stmt 0 view .LVU494
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 145
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 145
 
 
  1634 0004 0368     		ldr	r3, [r0]
@@ -8698,7 +8698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1675              	.L109:
  194:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
  1676              		.loc 1 194 7 is_stmt 1 view .LVU508
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 146
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 146
 
 
  1677 003a 236B     		ldr	r3, [r4, #48]
@@ -8758,7 +8758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1719 0064 0026     		movs	r6, #0
  1720 0066 E8E7     		b	.L109
  1721              	.L130:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 147
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 147
 
 
  163:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
@@ -8818,7 +8818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1760 0086 AB42     		cmp	r3, r5
  1761 0088 40F0B780 		bne	.L141
  263:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 148
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 148
 
 
  1762              		.loc 1 263 14 view .LVU537
@@ -8878,7 +8878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  286:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   }
  1802              		.loc 1 286 5 view .LVU552
  1803 00b2 E369     		ldr	r3, [r4, #28]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 149
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 149
 
 
  1804              	.LVL156:
@@ -8938,7 +8938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1846              		.loc 2 2563 3 is_stmt 0 view .LVU564
  1847              	.LBE527:
  1848              	.LBE526:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 150
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 150
 
 
  298:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
@@ -8998,7 +8998,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1889              	.L118:
  328:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
  1890              		.loc 1 328 3 is_stmt 1 view .LVU579
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 151
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 151
 
 
  328:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
@@ -9058,7 +9058,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1930 0144 636B     		ldr	r3, [r4, #52]
  339:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
  1931              		.loc 1 339 8 view .LVU595
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 152
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 152
 
 
  1932 0146 B3F1806F 		cmp	r3, #67108864
@@ -9118,7 +9118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  1973              	.LBE533:
  361:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  1974              		.loc 1 361 5 is_stmt 1 discriminator 8 view .LVU609
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 153
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 153
 
 
  363:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
@@ -9178,7 +9178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2014              	.L126:
  386:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
  2015              		.loc 1 386 5 is_stmt 1 view .LVU625
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 154
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 154
 
 
  386:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
@@ -9238,7 +9238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  416:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     assert_param(IS_RCC_SMPSCLKSOURCE(PeriphClkInit->SmpsClockSelection));
  2056              		.loc 1 416 5 is_stmt 1 view .LVU640
  417:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 155
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 155
 
 
  2057              		.loc 1 417 5 view .LVU641
@@ -9298,7 +9298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2099 01f8 70BD     		pop	{r4, r5, r6, pc}
  2100              	.LVL183:
  2101              	.L141:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 156
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 156
 
 
  2102              	.LBB543:
@@ -9358,7 +9358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2143              	.LBI510:
 2913:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  2144              		.loc 2 2913 22 view .LVU667
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 157
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 157
 
 
  2145              	.LBB511:
@@ -9418,7 +9418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  243:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  2186              		.loc 1 243 23 is_stmt 0 view .LVU681
  2187 024e FFF7FEFF 		bl	HAL_GetTick
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 158
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 158
 
 
  2188              	.LVL193:
@@ -9478,7 +9478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2228 0274 3546     		mov	r5, r6
  2229              	.LVL198:
  250:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****               break;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 159
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 159
 
 
  2230              		.loc 1 250 19 view .LVU696
@@ -9538,7 +9538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2274              	.LVL204:
  344:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
  2275              		.loc 1 344 7 is_stmt 1 view .LVU707
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 160
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 160
 
 
  344:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
@@ -9598,7 +9598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2317 02c8 58E7     		b	.L124
  2318              	.LVL210:
  2319              	.L146:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 161
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 161
 
 
 2612:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
@@ -9658,7 +9658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2366              		@ frame_needed = 0, uses_anonymous_args = 0
  2367              		@ link register save eliminated.
 1140:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   uint32_t clk48_clock_source;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 162
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 162
 
 
  2368              		.loc 1 1140 3 view .LVU731
@@ -9718,7 +9718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2406              		.loc 1 1147 22 is_stmt 0 view .LVU747
  2407 0016 40F08050 		orr	r0, r0, #268435456
  2408              	.LVL219:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 163
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 163
 
 
 1150:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** }
@@ -9778,7 +9778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2453 001a 0360     		str	r3, [r0]
  460:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** #endif /* USB */
  2454              		.loc 1 460 3 is_stmt 1 view .LVU760
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 164
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 164
 
 
  460:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** #endif /* USB */
@@ -9838,7 +9838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2493              	.LBI557:
 3683:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  2494              		.loc 2 3683 26 view .LVU777
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 165
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 165
 
 
  2495              	.LBB558:
@@ -9898,7 +9898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2533              	.LBE561:
  477:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  2534              		.loc 1 477 41 view .LVU794
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 166
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 166
 
 
  2535 0054 8361     		str	r3, [r0, #24]
@@ -9958,7 +9958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2573              		.loc 1 489 3 is_stmt 1 view .LVU810
  2574              	.LVL227:
  2575              	.LBB567:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 167
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 167
 
 
  2576              	.LBI567:
@@ -10018,7 +10018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2614              	.LVL231:
  2615              	.LBB571:
  2616              	.LBI571:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 168
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 168
 
 
 2747:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
@@ -10078,7 +10078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2875:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  2655              		.loc 2 2875 3 view .LVU843
 2875:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 169
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 169
 
 
  2656              		.loc 2 2875 21 is_stmt 0 view .LVU844
@@ -10138,7 +10138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2695              	.LBI580:
 2833:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  2696              		.loc 2 2833 26 view .LVU860
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 170
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 170
 
 
  2697              	.LBB581:
@@ -10198,7 +10198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  522:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  2735              		.loc 1 522 41 view .LVU877
  2736 00de E364     		str	r3, [r4, #76]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 171
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 171
 
 
  525:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** #endif /* RCC_SMPS_SUPPORT */
@@ -10258,7 +10258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2445:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  2781              		.loc 2 2445 26 view .LVU890
  2782              	.LBB589:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 172
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 172
 
 
 2447:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
@@ -10318,7 +10318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2829 0052 AE03     		.2byte	(.L228-.L163)/2
  2830 0054 AE03     		.2byte	(.L228-.L163)/2
  2831 0056 AE03     		.2byte	(.L228-.L163)/2
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 173
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 173
 
 
  2832 0058 AE03     		.2byte	(.L228-.L163)/2
@@ -10378,7 +10378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  589:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
  2874              		.loc 1 589 13 is_stmt 0 view .LVU911
  2875 008a B3F5407F 		cmp	r3, #768
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 174
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 174
 
 
  2876 008e 00F07883 		beq	.L225
@@ -10438,7 +10438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2917              	.LVL252:
 1775:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  2918              		.loc 2 1775 12 view .LVU925
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 175
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 175
 
 
  2919 00b0 D3F89430 		ldr	r3, [r3, #148]
@@ -10498,7 +10498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  2960              	.LVL257:
  2961              	.L161:
  582:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 176
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 176
 
 
  2962              		.loc 1 582 19 view .LVU939
@@ -10558,7 +10558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3003              	.LVL261:
 1502:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  3004              		.loc 2 1502 71 view .LVU953
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 177
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 177
 
 
  3005 010a 10F48060 		ands	r0, r0, #1024
@@ -10618,7 +10618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3045 013e B0F1004F 		cmp	r0, #-2147483648
  3046 0142 5CD0     		beq	.L265
  670:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 178
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 178
 
 
  3047              		.loc 1 670 10 is_stmt 1 view .LVU968
@@ -10678,7 +10678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3087              	.L262:
  561:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
  3088              		.loc 1 561 6 view .LVU983
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 179
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 179
 
 
  3089 0170 0020     		movs	r0, #0
@@ -10738,7 +10738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1502:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  3130              		.loc 2 1502 12 is_stmt 0 view .LVU997
  3131 0192 4FF0B043 		mov	r3, #1476395008
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 180
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 180
 
 
  3132 0196 1868     		ldr	r0, [r3]
@@ -10798,7 +10798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 2965:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  3173              		.loc 2 2965 12 is_stmt 0 view .LVU1011
  3174 01b8 4FF0B043 		mov	r3, #1476395008
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 181
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 181
 
 
  3175 01bc 1868     		ldr	r0, [r3]
@@ -10858,7 +10858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1813:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  3216              		.loc 2 1813 12 is_stmt 0 view .LVU1025
  3217 01dc 4FF0B042 		mov	r2, #1476395008
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 182
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 182
 
 
  3218 01e0 D2F89400 		ldr	r0, [r2, #148]
@@ -10918,7 +10918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3259              	.LBE619:
  663:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       }
  3260              		.loc 1 663 19 view .LVU1039
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 183
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 183
 
 
  3261 020e 4FF40040 		mov	r0, #32768
@@ -10978,7 +10978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3302              	.LVL296:
 1872:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  3303              		.loc 2 1872 71 view .LVU1053
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 184
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 184
 
 
  3304 0236 10F00200 		ands	r0, r0, #2
@@ -11038,7 +11038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3345 025a B023     		movs	r3, #176
  3346              	.LVL301:
 1947:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 185
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 185
 
 
  3347              		.loc 2 1947 14 view .LVU1067
@@ -11098,7 +11098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3387              	.LBB643:
 2799:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  3388              		.loc 2 2799 3 view .LVU1082
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 186
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 186
 
 
 2799:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
@@ -11158,7 +11158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 3447:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  3431              		.loc 2 3447 26 view .LVU1095
  3432              	.LBB647:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 187
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 187
 
 
 3449:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
@@ -11218,7 +11218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3473              	.L187:
  751:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         {
  3474              		.loc 1 751 9 is_stmt 1 view .LVU1110
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 188
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 188
 
 
  3475              	.LBB650:
@@ -11278,7 +11278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3514 02e8 52F82300 		ldr	r0, [r2, r3, lsl #2]
  3515              	.LVL319:
  753:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 189
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 189
 
 
  3516              		.loc 1 753 21 view .LVU1126
@@ -11338,7 +11338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3558              	.LBB658:
  3559              	.LBI658:
 2258:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 190
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 190
 
 
  3560              		.loc 2 2258 26 is_stmt 1 view .LVU1139
@@ -11398,7 +11398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  783:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         {
  3602              		.loc 1 783 9 view .LVU1152
  3603              	.LBB662:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 191
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 191
 
 
  3604              	.LBI662:
@@ -11458,7 +11458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3644              		.loc 2 2707 3 view .LVU1166
 2707:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  3645              		.loc 2 2707 21 is_stmt 0 view .LVU1167
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 192
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 192
 
 
  3646 0364 4FF0B043 		mov	r3, #1476395008
@@ -11518,7 +11518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3688              	.LBE670:
  843:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****                                                                       LL_RCC_GetAHBPrescaler()),
  3689              		.loc 1 843 21 view .LVU1180
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 193
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 193
 
 
  3690 039c C3F30223 		ubfx	r3, r3, #8, #3
@@ -11578,7 +11578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3731              	.LBB675:
 1727:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  3732              		.loc 2 1727 3 view .LVU1194
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 194
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 194
 
 
 1727:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
@@ -11638,7 +11638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3775 03fe 00BF     		.align	2
  3776              	.L284:
  3777 0400 00000000 		.word	SmpsPrescalerTable
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 195
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 195
 
 
  3778 0404 0024F400 		.word	16000000
@@ -11698,7 +11698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3820              	.LBI680:
 2963:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  3821              		.loc 2 2963 26 view .LVU1219
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 196
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 196
 
 
  3822              	.LBB681:
@@ -11758,7 +11758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3862 0464 19D0     		beq	.L198
  3863 0466 02F58072 		add	r2, r2, #256
  3864 046a 9342     		cmp	r3, r2
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 197
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 197
 
 
  3865 046c 18D0     		beq	.L199
@@ -11818,7 +11818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3906              		.loc 1 900 9 view .LVU1246
  900:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****         break;
  3907              		.loc 1 900 21 is_stmt 0 view .LVU1247
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 198
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 198
 
 
  3908 049a FFF7FEFF 		bl	HAL_RCC_GetSysClockFreq
@@ -11878,7 +11878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3948              		.loc 2 2728 10 view .LVU1261
  3949              	.LBE691:
  3950              	.LBE690:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 199
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 199
 
 
  924:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
@@ -11938,7 +11938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  3993              	.LVL358:
  945:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
  3994              		.loc 1 945 9 is_stmt 1 view .LVU1274
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 200
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 200
 
 
  3995 04fc 48E1     		b	.L153
@@ -11998,7 +11998,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4035              		.loc 2 2749 51 view .LVU1288
  4036 051e 1B0C     		lsrs	r3, r3, #16
  4037 0520 03F00C03 		and	r3, r3, #12
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 201
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 201
 
 
 2749:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
@@ -12058,7 +12058,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4077              	.LVL365:
  4078              	.L275:
  4079              	.LBB703:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 202
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 202
 
 
  955:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       const uint32_t temp_lsi2ready = LL_RCC_LSI2_IsReady();
@@ -12118,7 +12118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4119              		.loc 1 957 10 is_stmt 0 view .LVU1318
  4120 0570 012B     		cmp	r3, #1
  4121 0572 00F01181 		beq	.L244
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 203
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 203
 
 
  957:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
@@ -12178,7 +12178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4162              	.LBB711:
 2260:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  4163              		.loc 2 2260 3 view .LVU1333
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 204
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 204
 
 
 2260:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
@@ -12238,7 +12238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4205 05c0 4FF0B043 		mov	r3, #1476395008
  4206 05c4 D3F88830 		ldr	r3, [r3, #136]
 2749:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 205
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 205
 
 
  4207              		.loc 2 2749 51 view .LVU1347
@@ -12298,7 +12298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4246              		.loc 1 1027 19 view .LVU1362
  4247 05f4 4FF40040 		mov	r0, #32768
  4248 05f8 CAE0     		b	.L153
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 206
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 206
 
 
  4249              	.LVL378:
@@ -12358,7 +12358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1003:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
  4290              		.loc 1 1003 7 is_stmt 1 view .LVU1376
 1003:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 207
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 207
 
 
  4291              		.loc 1 1003 10 is_stmt 0 view .LVU1377
@@ -12418,7 +12418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4332              	.LBI727:
 2258:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** {
  4333              		.loc 2 2258 26 is_stmt 1 view .LVU1391
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 208
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 208
 
 
  4334              	.LBB728:
@@ -12478,7 +12478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4375              		.loc 2 2119 3 view .LVU1404
 2119:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  4376              		.loc 2 2119 21 is_stmt 0 view .LVU1405
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 209
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 209
 
 
  4377 066a 4FF0B043 		mov	r3, #1476395008
@@ -12538,7 +12538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4416              		.loc 2 1727 77 view .LVU1420
  4417 0690 10F00200 		ands	r0, r0, #2
  4418 0694 7CD0     		beq	.L153
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 210
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 210
 
 
  4419              	.LBE736:
@@ -12598,7 +12598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1340:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  4459              		.loc 2 1340 12 view .LVU1435
  4460 06b0 1068     		ldr	r0, [r2]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 211
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 211
 
 
  4461              	.LVL399:
@@ -12658,7 +12658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1945:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   {
  4501              		.loc 2 1945 3 is_stmt 1 view .LVU1450
 1945:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h ****   {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 212
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 212
 
 
  4502              		.loc 2 1945 6 is_stmt 0 view .LVU1451
@@ -12718,7 +12718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4544              		.loc 1 1096 7 view .LVU1463
  4545 0702 B02A     		cmp	r2, #176
  4546 0704 0BD1     		bne	.L283
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 213
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 213
 
 
  4547              	.L217:
@@ -12778,7 +12778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4587 0728 1821     		movs	r1, #24
  4588 072a 01FB0323 		mla	r3, r1, r3, r2
  4589              	.LVL421:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 214
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 214
 
 
 1099:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****           break;
@@ -12838,7 +12838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4634              	.LBE740:
  4635              	.LBB741:
  4636              	.LBB600:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 215
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 215
 
 
  582:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       }
@@ -12898,7 +12898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  652:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       }
  4679              		.loc 1 652 19 view .LVU1500
  4680 0792 4FF4FA40 		mov	r0, #32000
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 216
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 216
 
 
  4681              	.LVL438:
@@ -12958,7 +12958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4725              	.LBE745:
  4726              		.cfi_endproc
  4727              	.LFE952:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 217
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 217
 
 
  4729              		.section	.text.HAL_RCCEx_EnablePLLSAI1,"ax",%progbits
@@ -13018,7 +13018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4771              		.loc 1 1195 3 view .LVU1523
 1195:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  4772              		.loc 1 1195 15 is_stmt 0 view .LVU1524
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 218
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 218
 
 
  4773 0010 FFF7FEFF 		bl	HAL_GetTick
@@ -13078,7 +13078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4813              	.L291:
 1207:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
  4814              		.loc 1 1207 3 is_stmt 1 view .LVU1539
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 219
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 219
 
 
 1207:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
@@ -13138,7 +13138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4859 006a 0446     		mov	r4, r0
  4860              	.LVL456:
 1222:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 220
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 220
 
 
  4861              		.loc 1 1222 5 is_stmt 1 view .LVU1550
@@ -13198,7 +13198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4906              	.LFB955:
 1240:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   uint32_t tickstart;
  4907              		.loc 1 1240 1 is_stmt 1 view -0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 221
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 221
 
 
  4908              		.cfi_startproc
@@ -13258,7 +13258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  4949 001e 06D0     		beq	.L303
  4950              	.LBE757:
  4951              	.LBE756:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 222
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 222
 
 
 1253:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
@@ -13318,7 +13318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1281:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  4997              		.loc 1 1281 3 view .LVU1587
 1283:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 223
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 223
 
 
  4998              		.loc 1 1283 3 view .LVU1588
@@ -13378,7 +13378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5045              	.LBE760:
 1296:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  5046              		.loc 1 1296 1 is_stmt 0 view .LVU1598
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 224
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 224
 
 
  5047 0010 7047     		bx	lr
@@ -13438,7 +13438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5098              		@ frame_needed = 0, uses_anonymous_args = 0
  5099              		@ link register save eliminated.
 1319:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 225
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 225
 
 
  5100              		.loc 1 1319 3 view .LVU1606
@@ -13498,7 +13498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   30:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** /** @addtogroup STM32WBxx_LL_Driver
   31:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @{
   32:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 226
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 226
 
 
   33:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** 
@@ -13558,7 +13558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   87:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @{
   88:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   */
   89:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** #define LL_EXTI_LINE_0                 EXTI_IMR1_IM0           /*!< Extended line 0 */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 227
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 227
 
 
   90:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** #define LL_EXTI_LINE_1                 EXTI_IMR1_IM1           /*!< Extended line 1 */
@@ -13618,7 +13618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  144:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** #define LL_EXTI_LINE_ALL_0_31          (LL_EXTI_LINE_0 | LL_EXTI_LINE_1 | LL_EXTI_LINE_2 | \
  145:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****                                         LL_EXTI_LINE_3 | LL_EXTI_LINE_4 | LL_EXTI_LINE_5 | \
  146:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****                                         LL_EXTI_LINE_6 | LL_EXTI_LINE_7 | LL_EXTI_LINE_8 | \
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 228
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 228
 
 
  147:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****                                         LL_EXTI_LINE_9 | LL_EXTI_LINE_10 | LL_EXTI_LINE_11 | \
@@ -13678,7 +13678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  201:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** #define LL_EXTI_LINE_ALL               (0xFFFFFFFFU)  /*!< All Extended line */
  202:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** 
  203:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** #if defined(USE_FULL_LL_DRIVER)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 229
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 229
 
 
  204:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** #define LL_EXTI_LINE_NONE              (0x00000000U)  /*!< None Extended line */
@@ -13738,7 +13738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  258:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** 
  259:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** /**
  260:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @brief  Read a value in EXTI register
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 230
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 230
 
 
  261:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @param  __REG__ Register to be read
@@ -13798,7 +13798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  315:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_29
  316:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_30
  317:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_31 (*)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 231
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 231
 
 
  318:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_ALL_0_31
@@ -13858,7 +13858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  357:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_28 (*)
  358:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_29
  359:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_30
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 232
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 232
 
 
  360:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_31 (*)
@@ -13918,7 +13918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  414:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         (*) value not defined in all devices
  415:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @retval None
  416:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 233
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 233
 
 
  417:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** __STATIC_INLINE void LL_C2_EXTI_EnableIT_32_63(uint32_t ExtiLine)
@@ -13978,7 +13978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  471:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_2
  472:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_3
  473:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_4
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 234
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 234
 
 
  474:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_5
@@ -14038,7 +14038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  528:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   */
  529:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** __STATIC_INLINE void LL_EXTI_DisableIT_32_63(uint32_t ExtiLine)
  530:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 235
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 235
 
 
  531:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   CLEAR_BIT(EXTI->IMR2, ExtiLine);
@@ -14098,7 +14098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  585:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_21 (*)
  586:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_22
  587:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_23 (*)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 236
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 236
 
 
  588:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_24
@@ -14158,7 +14158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  642:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** {
  643:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   return ((READ_BIT(EXTI->C2IMR1, ExtiLine) == (ExtiLine)) ? 1UL : 0UL);
  644:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 237
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 237
 
 
  645:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** 
@@ -14218,7 +14218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  699:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @}
  700:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   */
  701:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 238
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 238
 
 
  702:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** /** @defgroup EXTI_LL_EF_Event_Management Event_Management
@@ -14278,7 +14278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  756:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_13
  757:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_14
  758:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_15
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 239
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 239
 
 
  759:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_17
@@ -14338,7 +14338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  813:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_11
  814:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_12
  815:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_13
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 240
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 240
 
 
  816:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_14
@@ -14398,7 +14398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  870:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @retval None
  871:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   */
  872:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** __STATIC_INLINE void LL_EXTI_DisableEvent_32_63(uint32_t ExtiLine)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 241
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 241
 
 
  873:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** {
@@ -14458,7 +14458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  927:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @param  ExtiLine This parameter can be a combination of the following values:
  928:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_0
  929:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 242
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 242
 
 
  930:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   *         @arg @ref LL_EXTI_LINE_2
@@ -14518,7 +14518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  984:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** /**
  985:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   * @}
  986:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 243
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 243
 
 
  987:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_exti.h **** 
@@ -14578,7 +14578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5144              	.LBE768:
 1327:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  5145              		.loc 1 1327 1 view .LVU1618
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 244
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 244
 
 
  5146 0030 7047     		bx	lr
@@ -14638,7 +14638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1339:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  5197              		.loc 1 1339 5 is_stmt 1 view .LVU1626
  5198 0010 FFF7FEFF 		bl	HAL_RCCEx_LSECSS_Callback
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 245
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 245
 
 
  5199              	.LVL470:
@@ -14698,7 +14698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1383:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  5243              		.loc 1 1383 3 is_stmt 1 view .LVU1639
 1383:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 246
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 246
 
 
  5244              		.loc 1 1383 29 is_stmt 0 view .LVU1640
@@ -14758,7 +14758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5284              	.L314:
 1439:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  5285              		.loc 1 1439 1 view .LVU1655
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 247
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 247
 
 
  5286 0042 08B0     		add	sp, sp, #32
@@ -14818,7 +14818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   42:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #endif
   43:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
   44:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /* Includes ------------------------------------------------------------------*/
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 248
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 248
 
 
   45:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #include "stm32wbxx.h"
@@ -14878,7 +14878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   99:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_AHB2_GRP1_PERIPH_GPIOD          RCC_AHB2ENR_GPIODEN
  100:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #endif /* GPIOD */
  101:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_AHB2_GRP1_PERIPH_GPIOE          RCC_AHB2ENR_GPIOEEN
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 249
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 249
 
 
  102:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_AHB2_GRP1_PERIPH_GPIOH          RCC_AHB2ENR_GPIOHEN
@@ -14938,7 +14938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  156:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @}
  157:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
  158:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 250
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 250
 
 
  159:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
@@ -14998,7 +14998,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  213:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #endif /* DMA2 */
  214:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_C2_AHB1_GRP1_PERIPH_DMAMUX1      RCC_C2AHB1ENR_DMAMUX1EN
  215:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_C2_AHB1_GRP1_PERIPH_SRAM1        RCC_C2AHB1ENR_SRAM1EN
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 251
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 251
 
 
  216:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_C2_AHB1_GRP1_PERIPH_CRC          RCC_C2AHB1ENR_CRCEN
@@ -15058,7 +15058,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  270:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #if defined(SPI2)
  271:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_C2_APB1_GRP1_PERIPH_SPI2         RCC_C2APB1ENR1_SPI2EN
  272:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #endif /* SPI2 */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 252
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 252
 
 
  273:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_C2_APB1_GRP1_PERIPH_I2C1         RCC_C2APB1ENR1_I2C1EN
@@ -15118,7 +15118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  327:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  328:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @}
  329:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 253
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 253
 
 
  330:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
@@ -15178,7 +15178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  384:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_AHB1_GRP1_PERIPH_CRC
  385:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_AHB1_GRP1_PERIPH_TSC
  386:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @note  (*) Not supported by all the devices
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 254
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 254
 
 
  387:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @retval uint32_t
@@ -15238,7 +15238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  441:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB1RSTR     DMAMUX1RST     LL_AHB1_GRP1_ReleaseReset\n
  442:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB1RSTR     CRCRST        LL_AHB1_GRP1_ReleaseReset\n
  443:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB1RSTR     TSCRST        LL_AHB1_GRP1_ReleaseReset
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 255
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 255
 
 
  444:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @param  Periphs This parameter can be a combination of the following values:
@@ -15298,7 +15298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  498:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_AHB1_GRP1_PERIPH_SRAM1
  499:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_AHB1_GRP1_PERIPH_CRC
  500:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_AHB1_GRP1_PERIPH_TSC
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 256
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 256
 
 
  501:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @note  (*) Not supported by all the devices
@@ -15358,7 +15358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5308 0052 DB6C     		ldr	r3, [r3, #76]
  5309 0054 03F00103 		and	r3, r3, #1
  5310              		.loc 4 544 10 view .LVU1662
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 257
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 257
 
 
  5311 0058 0093     		str	r3, [sp]
@@ -15418,7 +15418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5351 007c DB6C     		ldr	r3, [r3, #76]
  5352 007e 03F08003 		and	r3, r3, #128
  544:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   (void)tmpreg;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 258
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 258
 
 
  5353              		.loc 4 544 10 view .LVU1678
@@ -15478,7 +15478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5394 00a4 DB6C     		ldr	r3, [r3, #76]
  5395 00a6 03F00403 		and	r3, r3, #4
  544:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   (void)tmpreg;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 259
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 259
 
 
  5396              		.loc 4 544 10 view .LVU1694
@@ -15538,7 +15538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5438              		.align	2
  5439              	.L327:
  5440 00d0 00040058 		.word	1476396032
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 260
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 260
 
 
  5441 00d4 001C0048 		.word	1207966720
@@ -15598,7 +15598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5492              	.LBB777:
 2012:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** }
  5493              		.loc 2 2012 3 view .LVU1716
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 261
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 261
 
 
  5494 0000 4FF0B042 		mov	r2, #1476395008
@@ -15658,7 +15658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5545              		.loc 1 1484 1 is_stmt 1 view -0
  5546              		.cfi_startproc
  5547              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 262
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 262
 
 
  5548              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -15718,7 +15718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5593              	.LVL496:
  5594              	.L337:
 1508:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 263
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 263
 
 
  5595              		.loc 1 1508 5 is_stmt 1 view .LVU1735
@@ -15778,7 +15778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5638              	.LBB787:
 1825:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_rcc.h **** 
  5639              		.loc 2 1825 1 view .LVU1747
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 264
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 264
 
 
  5640 0036 7047     		bx	lr
@@ -15838,7 +15838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5683              	.LBB790:
  5684              	.LBI790:
  546:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 265
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 265
 
 
  547:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
@@ -15898,7 +15898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  601:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
  602:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  603:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Force AHB2 peripherals reset.
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 266
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 266
 
 
  604:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @rmtoll AHB2RSTR     GPIOARST      LL_AHB2_GRP1_ForceReset\n
@@ -15958,7 +15958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  658:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  659:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Enable AHB2 peripherals clock during Low Power (Sleep) mode.
  660:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @rmtoll AHB2SMENR    GPIOASMEN     LL_AHB2_GRP1_EnableClockSleep\n
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 267
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 267
 
 
  661:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB2SMENR    GPIOBSMEN     LL_AHB2_GRP1_EnableClockSleep\n
@@ -16018,7 +16018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  715:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
  716:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  717:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @}
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 268
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 268
 
 
  718:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
@@ -16078,7 +16078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  772:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
  773:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** __STATIC_INLINE uint32_t LL_AHB3_GRP1_IsEnabledClock(uint32_t Periphs)
  774:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 269
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 269
 
 
  775:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   return ((READ_BIT(RCC->AHB3ENR, Periphs) == (Periphs)) ? 1UL : 0UL);
@@ -16138,7 +16138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  829:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  830:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Release AHB3 peripherals reset.
  831:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @rmtoll AHB3RSTR     QUADSPIRST    LL_AHB3_GRP1_ReleaseReset\n
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 270
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 270
 
 
  832:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB3RSTR     PKARST        LL_AHB3_GRP1_ReleaseReset\n
@@ -16198,7 +16198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  886:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB3SMENR    AES2SMEN      LL_AHB3_GRP1_DisableClockSleep\n
  887:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB3SMENR    RNGSMEN       LL_AHB3_GRP1_DisableClockSleep\n
  888:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB3SMENR    SRAM2SMEN     LL_AHB3_GRP1_DisableClockSleep\n
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 271
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 271
 
 
  889:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB3SMENR    FLASHSMEN     LL_AHB3_GRP1_DisableClockSleep
@@ -16258,7 +16258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  943:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   /* Delay after an RCC peripheral clock enabling */
  944:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   tmpreg = READ_BIT(RCC->APB1ENR1, Periphs);
  945:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   (void)tmpreg;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 272
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 272
 
 
  946:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
@@ -16318,7 +16318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1000:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @rmtoll APB1ENR2     LPUART1EN     LL_APB1_GRP2_IsEnabledClock\n
 1001:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         APB1ENR2     LPTIM2EN      LL_APB1_GRP2_IsEnabledClock
 1002:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @param  Periphs This parameter can be a combination of the following values:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 273
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 273
 
 
 1003:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB1_GRP2_PERIPH_LPUART1 (*)
@@ -16378,7 +16378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1057:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
 1058:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
 1059:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Force APB1 peripherals reset.
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 274
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 274
 
 
 1060:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @rmtoll APB1RSTR1    TIM2RST       LL_APB1_GRP1_ForceReset\n
@@ -16438,7 +16438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1099:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   SET_BIT(RCC->APB1RSTR2, Periphs);
 1100:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
 1101:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 275
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 275
 
 
 1102:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
@@ -16498,7 +16498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1623:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   /* Set the FELIM[7:0] bits according to ErrorLimitValue value */
  5721              		.loc 1 1623 3 is_stmt 1 view .LVU1774
 1623:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   /* Set the FELIM[7:0] bits according to ErrorLimitValue value */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 276
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 276
 
 
  5722              		.loc 1 1623 17 is_stmt 0 view .LVU1775
@@ -16558,7 +16558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5768              		.cfi_startproc
  5769              		@ args = 0, pretend = 0, frame = 0
  5770              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 277
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 277
 
 
  5771              		@ link register save eliminated.
@@ -16618,7 +16618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
   49:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** #define CRS_POSITION_TRIM        (CRS_CR_TRIM_Pos)     /* bit position in CR reg */
   50:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** #define CRS_POSITION_FECAP       (CRS_ISR_FECAP_Pos)   /* bit position in ISR reg */
   51:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** #define CRS_POSITION_FELIM       (CRS_CFGR_FELIM_Pos)  /* bit position in CFGR reg */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 278
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 278
 
 
   52:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** 
@@ -16678,7 +16678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  106:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   */
  107:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** 
  108:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** /** @defgroup CRS_LL_EC_SYNC_SOURCE Synchronization Signal Source
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 279
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 279
 
 
  109:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   * @{
@@ -16738,7 +16738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  163:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   * @}
  164:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   */
  165:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 280
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 280
 
 
  166:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** /* Exported macro ------------------------------------------------------------*/
@@ -16798,7 +16798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  220:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** /* Exported functions --------------------------------------------------------*/
  221:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** /** @defgroup CRS_LL_Exported_Functions CRS Exported Functions
  222:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   * @{
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 281
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 281
 
 
  223:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   */
@@ -16858,7 +16858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  277:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   CLEAR_BIT(CRS->CR, CRS_CR_AUTOTRIMEN);
  278:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** }
  279:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 282
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 282
 
 
  280:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** /**
@@ -16918,7 +16918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  334:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** }
  335:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** 
  336:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 283
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 283
 
 
  337:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   * @brief  Set frequency error limit
@@ -16978,7 +16978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  391:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** {
  392:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   return (uint32_t)(READ_BIT(CRS->CFGR, CRS_CFGR_SYNCDIV));
  393:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 284
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 284
 
 
  394:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** 
@@ -17038,7 +17038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  448:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   * @brief  Configure CRS for the synchronization
  449:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   * @rmtoll CR           TRIM          LL_CRS_ConfigSynchronization\n
  450:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   *         CFGR         RELOAD        LL_CRS_ConfigSynchronization\n
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 285
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 285
 
 
  451:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   *         CFGR         FELIM         LL_CRS_ConfigSynchronization\n
@@ -17098,7 +17098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5791              		.cfi_endproc
  5792              	.LFE969:
  5794              		.section	.text.HAL_RCCEx_CRSGetSynchronizationInfo,"ax",%progbits
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 286
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 286
 
 
  5795              		.align	1
@@ -17158,7 +17158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1661:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
  5837              		.loc 1 1661 39 view .LVU1803
  5838 000e 4260     		str	r2, [r0, #4]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 287
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 287
 
 
 1664:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** 
@@ -17218,7 +17218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5863              	.LBE803:
  5864              	.LBE802:
 1667:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 288
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 288
 
 
  5865              		.loc 1 1667 36 view .LVU1815
@@ -17278,7 +17278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5912              	.L362:
 1698:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
  5913              		.loc 1 1698 7 is_stmt 1 view .LVU1825
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 289
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 289
 
 
 1698:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
@@ -17338,7 +17338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
 1696:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     {
  5953              		.loc 1 1696 8 is_stmt 0 view .LVU1841
  5954 002c B5F1FF3F 		cmp	r5, #-1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 290
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 290
 
 
  5955 0030 EDD1     		bne	.L362
@@ -17398,7 +17398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  5992 0056 0222     		movs	r2, #2
  5993 0058 DA60     		str	r2, [r3, #12]
  5994              	.L352:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 291
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 291
 
 
 1720:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
@@ -17458,7 +17458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  6031 0080 DA60     		str	r2, [r3, #12]
  6032              	.L354:
 1740:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****     }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 292
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 292
 
 
  6033              		.loc 1 1740 7 discriminator 4 view .LVU1877
@@ -17518,7 +17518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  6071              	.L364:
  6072 00a8 00600040 		.word	1073766400
  6073              		.cfi_endproc
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 293
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 293
 
 
  6074              	.LFE971:
@@ -17578,7 +17578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  6128              		.loc 1 1860 1 view .LVU1899
  6129 0000 7047     		bx	lr
  6130              		.cfi_endproc
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 294
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 294
 
 
  6131              	.LFE975:
@@ -17638,7 +17638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  6180 0006 1268     		ldr	r2, [r2]
  6181              	.LVL532:
 1776:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****   {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 295
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 295
 
 
  6182              		.loc 1 1776 3 is_stmt 1 view .LVU1909
@@ -17698,7 +17698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  6221              		.loc 1 1811 7 is_stmt 1 view .LVU1924
 1811:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_rcc_ex.c ****       {
  6222              		.loc 1 1811 10 is_stmt 0 view .LVU1925
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 296
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 296
 
 
  6223 0040 13F4007F 		tst	r3, #512
@@ -17758,7 +17758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  540:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** }
  541:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** 
  542:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 297
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 297
 
 
  543:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   * @brief  Check if Synchronization or trimming error signal occurred or not
@@ -17818,7 +17818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  597:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** __STATIC_INLINE void LL_CRS_ClearFlag_SYNCOK(void)
  598:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** {
  599:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   WRITE_REG(CRS->ICR, CRS_ICR_SYNCOKC);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 298
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 298
 
 
  600:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** }
@@ -17878,7 +17878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  6269              		.loc 5 599 3 is_stmt 0 view .LVU1942
  6270 0062 0122     		movs	r2, #1
  6271              	.LVL541:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 299
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 299
 
 
  599:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** }
@@ -17938,7 +17938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  6308              		.loc 5 628 22 view .LVU1953
  6309              	.LBB811:
  629:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 300
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 300
 
 
  630:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h ****   WRITE_REG(CRS->ICR, CRS_ICR_ESYNCC);
@@ -17976,106 +17976,106 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 1
  6341              		.file 14 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_rcc.h"
  6342              		.file 15 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal.h"
  6343              		.file 16 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_pwr.h"
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 301
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 301
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32wbxx_hal_rcc_ex.c
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:21     .text.LL_RCC_SetI2CClockSource:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:26     .text.LL_RCC_SetI2CClockSource:0000000000000000 LL_RCC_SetI2CClockSource
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:53     .text.RCC_PLL_GetFreqDomain_P:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:58     .text.RCC_PLL_GetFreqDomain_P:0000000000000000 RCC_PLL_GetFreqDomain_P
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:257    .text.RCC_PLL_GetFreqDomain_P:000000000000008c $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:264    .text.RCC_PLL_GetFreqDomain_Q:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:269    .text.RCC_PLL_GetFreqDomain_Q:0000000000000000 RCC_PLL_GetFreqDomain_Q
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:468    .text.RCC_PLL_GetFreqDomain_Q:000000000000008c $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:475    .text.RCC_PLLSAI1_GetFreqDomain_R:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:480    .text.RCC_PLLSAI1_GetFreqDomain_R:0000000000000000 RCC_PLLSAI1_GetFreqDomain_R
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:679    .text.RCC_PLLSAI1_GetFreqDomain_R:000000000000008c $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:686    .text.RCC_PLLSAI1_GetFreqDomain_P:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:691    .text.RCC_PLLSAI1_GetFreqDomain_P:0000000000000000 RCC_PLLSAI1_GetFreqDomain_P
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:890    .text.RCC_PLLSAI1_GetFreqDomain_P:000000000000008c $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:897    .text.RCC_PLLSAI1_GetFreqDomain_Q:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:902    .text.RCC_PLLSAI1_GetFreqDomain_Q:0000000000000000 RCC_PLLSAI1_GetFreqDomain_Q
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1101   .text.RCC_PLLSAI1_GetFreqDomain_Q:000000000000008c $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1108   .text.RCCEx_PLLSAI1_ConfigNP:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1113   .text.RCCEx_PLLSAI1_ConfigNP:0000000000000000 RCCEx_PLLSAI1_ConfigNP
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1274   .text.RCCEx_PLLSAI1_ConfigNQ:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1279   .text.RCCEx_PLLSAI1_ConfigNQ:0000000000000000 RCCEx_PLLSAI1_ConfigNQ
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1440   .text.RCCEx_PLLSAI1_ConfigNR:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1445   .text.RCCEx_PLLSAI1_ConfigNR:0000000000000000 RCCEx_PLLSAI1_ConfigNR
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1606   .text.HAL_RCCEx_PeriphCLKConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:1612   .text.HAL_RCCEx_PeriphCLKConfig:0000000000000000 HAL_RCCEx_PeriphCLKConfig
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:2355   .text.HAL_RCCEx_GetRngCLKSource:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:2361   .text.HAL_RCCEx_GetRngCLKSource:0000000000000000 HAL_RCCEx_GetRngCLKSource
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:2417   .text.HAL_RCCEx_GetPeriphCLKConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:2423   .text.HAL_RCCEx_GetPeriphCLKConfig:0000000000000000 HAL_RCCEx_GetPeriphCLKConfig
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:2758   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:2764   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000000 HAL_RCCEx_GetPeriphCLKFreq
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:2813   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000032 $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:2845   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000072 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:3777   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000400 $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:3794   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000420 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4600   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000738 $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4616   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000768 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4722   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000007ac $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4730   .text.HAL_RCCEx_EnablePLLSAI1:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4736   .text.HAL_RCCEx_EnablePLLSAI1:0000000000000000 HAL_RCCEx_EnablePLLSAI1
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4894   .text.HAL_RCCEx_EnablePLLSAI1:0000000000000088 $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4899   .text.HAL_RCCEx_DisablePLLSAI1:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4905   .text.HAL_RCCEx_DisablePLLSAI1:0000000000000000 HAL_RCCEx_DisablePLLSAI1
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4983   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:4989   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000000 HAL_RCCEx_WakeUpStopCLKConfig
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5021   .text.HAL_RCCEx_EnableLSECSS:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5027   .text.HAL_RCCEx_EnableLSECSS:0000000000000000 HAL_RCCEx_EnableLSECSS
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5052   .text.HAL_RCCEx_DisableLSECSS:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5058   .text.HAL_RCCEx_DisableLSECSS:0000000000000000 HAL_RCCEx_DisableLSECSS
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5087   .text.HAL_RCCEx_EnableLSECSS_IT:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5093   .text.HAL_RCCEx_EnableLSECSS_IT:0000000000000000 HAL_RCCEx_EnableLSECSS_IT
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5151   .text.HAL_RCCEx_LSECSS_Callback:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5157   .text.HAL_RCCEx_LSECSS_Callback:0000000000000000 HAL_RCCEx_LSECSS_Callback
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5170   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5176   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000000 HAL_RCCEx_LSECSS_IRQHandler
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s 			page 302
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:21     .text.LL_RCC_SetI2CClockSource:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:26     .text.LL_RCC_SetI2CClockSource:0000000000000000 LL_RCC_SetI2CClockSource
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:53     .text.RCC_PLL_GetFreqDomain_P:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:58     .text.RCC_PLL_GetFreqDomain_P:0000000000000000 RCC_PLL_GetFreqDomain_P
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:257    .text.RCC_PLL_GetFreqDomain_P:000000000000008c $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:264    .text.RCC_PLL_GetFreqDomain_Q:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:269    .text.RCC_PLL_GetFreqDomain_Q:0000000000000000 RCC_PLL_GetFreqDomain_Q
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:468    .text.RCC_PLL_GetFreqDomain_Q:000000000000008c $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:475    .text.RCC_PLLSAI1_GetFreqDomain_R:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:480    .text.RCC_PLLSAI1_GetFreqDomain_R:0000000000000000 RCC_PLLSAI1_GetFreqDomain_R
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:679    .text.RCC_PLLSAI1_GetFreqDomain_R:000000000000008c $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:686    .text.RCC_PLLSAI1_GetFreqDomain_P:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:691    .text.RCC_PLLSAI1_GetFreqDomain_P:0000000000000000 RCC_PLLSAI1_GetFreqDomain_P
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:890    .text.RCC_PLLSAI1_GetFreqDomain_P:000000000000008c $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:897    .text.RCC_PLLSAI1_GetFreqDomain_Q:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:902    .text.RCC_PLLSAI1_GetFreqDomain_Q:0000000000000000 RCC_PLLSAI1_GetFreqDomain_Q
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1101   .text.RCC_PLLSAI1_GetFreqDomain_Q:000000000000008c $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1108   .text.RCCEx_PLLSAI1_ConfigNP:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1113   .text.RCCEx_PLLSAI1_ConfigNP:0000000000000000 RCCEx_PLLSAI1_ConfigNP
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1274   .text.RCCEx_PLLSAI1_ConfigNQ:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1279   .text.RCCEx_PLLSAI1_ConfigNQ:0000000000000000 RCCEx_PLLSAI1_ConfigNQ
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1440   .text.RCCEx_PLLSAI1_ConfigNR:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1445   .text.RCCEx_PLLSAI1_ConfigNR:0000000000000000 RCCEx_PLLSAI1_ConfigNR
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1606   .text.HAL_RCCEx_PeriphCLKConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:1612   .text.HAL_RCCEx_PeriphCLKConfig:0000000000000000 HAL_RCCEx_PeriphCLKConfig
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:2355   .text.HAL_RCCEx_GetRngCLKSource:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:2361   .text.HAL_RCCEx_GetRngCLKSource:0000000000000000 HAL_RCCEx_GetRngCLKSource
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:2417   .text.HAL_RCCEx_GetPeriphCLKConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:2423   .text.HAL_RCCEx_GetPeriphCLKConfig:0000000000000000 HAL_RCCEx_GetPeriphCLKConfig
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:2758   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:2764   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000000 HAL_RCCEx_GetPeriphCLKFreq
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:2813   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000032 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:2845   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000072 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:3777   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000400 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:3794   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000420 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4600   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000738 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4616   .text.HAL_RCCEx_GetPeriphCLKFreq:0000000000000768 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4722   .text.HAL_RCCEx_GetPeriphCLKFreq:00000000000007ac $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4730   .text.HAL_RCCEx_EnablePLLSAI1:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4736   .text.HAL_RCCEx_EnablePLLSAI1:0000000000000000 HAL_RCCEx_EnablePLLSAI1
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4894   .text.HAL_RCCEx_EnablePLLSAI1:0000000000000088 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4899   .text.HAL_RCCEx_DisablePLLSAI1:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4905   .text.HAL_RCCEx_DisablePLLSAI1:0000000000000000 HAL_RCCEx_DisablePLLSAI1
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4983   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:4989   .text.HAL_RCCEx_WakeUpStopCLKConfig:0000000000000000 HAL_RCCEx_WakeUpStopCLKConfig
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5021   .text.HAL_RCCEx_EnableLSECSS:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5027   .text.HAL_RCCEx_EnableLSECSS:0000000000000000 HAL_RCCEx_EnableLSECSS
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5052   .text.HAL_RCCEx_DisableLSECSS:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5058   .text.HAL_RCCEx_DisableLSECSS:0000000000000000 HAL_RCCEx_DisableLSECSS
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5087   .text.HAL_RCCEx_EnableLSECSS_IT:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5093   .text.HAL_RCCEx_EnableLSECSS_IT:0000000000000000 HAL_RCCEx_EnableLSECSS_IT
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5151   .text.HAL_RCCEx_LSECSS_Callback:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5157   .text.HAL_RCCEx_LSECSS_Callback:0000000000000000 HAL_RCCEx_LSECSS_Callback
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5170   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5176   .text.HAL_RCCEx_LSECSS_IRQHandler:0000000000000000 HAL_RCCEx_LSECSS_IRQHandler
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s 			page 302
 
 
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5210   .text.HAL_RCCEx_LSCOConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5216   .text.HAL_RCCEx_LSCOConfig:0000000000000000 HAL_RCCEx_LSCOConfig
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5440   .text.HAL_RCCEx_LSCOConfig:00000000000000d0 $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5447   .text.HAL_RCCEx_EnableLSCO:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5453   .text.HAL_RCCEx_EnableLSCO:0000000000000000 HAL_RCCEx_EnableLSCO
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5475   .text.HAL_RCCEx_DisableLSCO:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5481   .text.HAL_RCCEx_DisableLSCO:0000000000000000 HAL_RCCEx_DisableLSCO
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5506   .text.HAL_RCCEx_EnableMSIPLLMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5512   .text.HAL_RCCEx_EnableMSIPLLMode:0000000000000000 HAL_RCCEx_EnableMSIPLLMode
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5537   .text.HAL_RCCEx_DisableMSIPLLMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5543   .text.HAL_RCCEx_DisableMSIPLLMode:0000000000000000 HAL_RCCEx_DisableMSIPLLMode
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5568   .text.HAL_RCCEx_TrimOsc:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5574   .text.HAL_RCCEx_TrimOsc:0000000000000000 HAL_RCCEx_TrimOsc
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5656   .text.HAL_RCCEx_TrimOsc:000000000000003c $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5661   .text.HAL_RCCEx_CRSConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5667   .text.HAL_RCCEx_CRSConfig:0000000000000000 HAL_RCCEx_CRSConfig
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5754   .text.HAL_RCCEx_CRSConfig:0000000000000044 $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5759   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5765   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:0000000000000000 HAL_RCCEx_CRSSoftwareSynchronizationGenerate
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5790   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5795   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5801   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000000 HAL_RCCEx_CRSGetSynchronizationInfo
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5872   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000020 $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5877   .text.HAL_RCCEx_CRSWaitSynchronization:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:5883   .text.HAL_RCCEx_CRSWaitSynchronization:0000000000000000 HAL_RCCEx_CRSWaitSynchronization
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6072   .text.HAL_RCCEx_CRSWaitSynchronization:00000000000000a8 $d
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6077   .text.HAL_RCCEx_CRS_SyncOkCallback:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6083   .text.HAL_RCCEx_CRS_SyncOkCallback:0000000000000000 HAL_RCCEx_CRS_SyncOkCallback
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6096   .text.HAL_RCCEx_CRS_SyncWarnCallback:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6102   .text.HAL_RCCEx_CRS_SyncWarnCallback:0000000000000000 HAL_RCCEx_CRS_SyncWarnCallback
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6115   .text.HAL_RCCEx_CRS_ExpectedSyncCallback:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6121   .text.HAL_RCCEx_CRS_ExpectedSyncCallback:0000000000000000 HAL_RCCEx_CRS_ExpectedSyncCallback
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6134   .text.HAL_RCCEx_CRS_ErrorCallback:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6140   .text.HAL_RCCEx_CRS_ErrorCallback:0000000000000000 HAL_RCCEx_CRS_ErrorCallback
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6155   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6161   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000000 HAL_RCCEx_CRS_IRQHandler
-C:\Users\antho\AppData\Local\Temp\ccz9uYJO.s:6327   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000084 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5210   .text.HAL_RCCEx_LSCOConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5216   .text.HAL_RCCEx_LSCOConfig:0000000000000000 HAL_RCCEx_LSCOConfig
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5440   .text.HAL_RCCEx_LSCOConfig:00000000000000d0 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5447   .text.HAL_RCCEx_EnableLSCO:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5453   .text.HAL_RCCEx_EnableLSCO:0000000000000000 HAL_RCCEx_EnableLSCO
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5475   .text.HAL_RCCEx_DisableLSCO:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5481   .text.HAL_RCCEx_DisableLSCO:0000000000000000 HAL_RCCEx_DisableLSCO
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5506   .text.HAL_RCCEx_EnableMSIPLLMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5512   .text.HAL_RCCEx_EnableMSIPLLMode:0000000000000000 HAL_RCCEx_EnableMSIPLLMode
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5537   .text.HAL_RCCEx_DisableMSIPLLMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5543   .text.HAL_RCCEx_DisableMSIPLLMode:0000000000000000 HAL_RCCEx_DisableMSIPLLMode
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5568   .text.HAL_RCCEx_TrimOsc:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5574   .text.HAL_RCCEx_TrimOsc:0000000000000000 HAL_RCCEx_TrimOsc
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5656   .text.HAL_RCCEx_TrimOsc:000000000000003c $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5661   .text.HAL_RCCEx_CRSConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5667   .text.HAL_RCCEx_CRSConfig:0000000000000000 HAL_RCCEx_CRSConfig
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5754   .text.HAL_RCCEx_CRSConfig:0000000000000044 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5759   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5765   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:0000000000000000 HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5790   .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5795   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5801   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000000 HAL_RCCEx_CRSGetSynchronizationInfo
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5872   .text.HAL_RCCEx_CRSGetSynchronizationInfo:0000000000000020 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5877   .text.HAL_RCCEx_CRSWaitSynchronization:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:5883   .text.HAL_RCCEx_CRSWaitSynchronization:0000000000000000 HAL_RCCEx_CRSWaitSynchronization
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6072   .text.HAL_RCCEx_CRSWaitSynchronization:00000000000000a8 $d
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6077   .text.HAL_RCCEx_CRS_SyncOkCallback:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6083   .text.HAL_RCCEx_CRS_SyncOkCallback:0000000000000000 HAL_RCCEx_CRS_SyncOkCallback
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6096   .text.HAL_RCCEx_CRS_SyncWarnCallback:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6102   .text.HAL_RCCEx_CRS_SyncWarnCallback:0000000000000000 HAL_RCCEx_CRS_SyncWarnCallback
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6115   .text.HAL_RCCEx_CRS_ExpectedSyncCallback:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6121   .text.HAL_RCCEx_CRS_ExpectedSyncCallback:0000000000000000 HAL_RCCEx_CRS_ExpectedSyncCallback
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6134   .text.HAL_RCCEx_CRS_ErrorCallback:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6140   .text.HAL_RCCEx_CRS_ErrorCallback:0000000000000000 HAL_RCCEx_CRS_ErrorCallback
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6155   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6161   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000000 HAL_RCCEx_CRS_IRQHandler
+C:\Users\antho\AppData\Local\Temp\ccbPKUe5.s:6327   .text.HAL_RCCEx_CRS_IRQHandler:0000000000000084 $d
 
 UNDEFINED SYMBOLS
 MSIRangeTable

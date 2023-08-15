@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
   27:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   * @{
   28:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   */
   29:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 2
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 2
 
 
   30:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c **** /** @defgroup PCDEx PCDEx
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
   31              		.cfi_startproc
   32              		@ args = 0, pretend = 0, frame = 0
   33              		@ frame_needed = 0, uses_anonymous_args = 0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 3
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 3
 
 
   34              		@ link register save eliminated.
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  110:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****     ep->pmaaddr1 = (uint16_t)((pmaadress & 0xFFFF0000U) >> 16);
  111:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   }
  112:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c **** #endif /* (USE_USB_DOUBLE_BUFFER == 1U) */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 4
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 4
 
 
  113:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c **** 
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  101              		.align	1
  102              		.global	HAL_PCDEx_ActivateBCD
  103              		.syntax unified
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 5
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 5
 
 
  104              		.thumb
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  142              		.loc 1 132 14 view .LVU41
  143 002c 22F00802 		bic	r2, r2, #8
  144 0030 92B2     		uxth	r2, r2
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 6
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 6
 
 
  145 0032 A3F85820 		strh	r2, [r3, #88]	@ movhi
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  187              		.loc 1 146 33 view .LVU54
  188 0006 C3F8EC02 		str	r0, [r3, #748]
  147:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 7
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 7
 
 
  148:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   /* Disable BCD feature */
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  178:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   USBx->BCDR &= ~(USB_BCDR_DCDEN);
  179:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   HAL_Delay(50U);
  180:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   USBx->BCDR |= (USB_BCDR_PDEN);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 8
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 8
 
 
  181:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   HAL_Delay(50U);
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  235:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   else
  236:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   {
  237:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c **** #if (USE_HAL_PCD_REGISTER_CALLBACKS == 1U)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 9
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 9
 
 
  238:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****     hpcd->BCDCallback(hpcd, PCD_BCD_DISCOVERY_COMPLETED);
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  247 001c B2F85430 		ldrh	r3, [r2, #84]
  248 0020 9BB2     		uxth	r3, r3
  249              		.loc 1 259 16 view .LVU76
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 10
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 10
 
 
  250 0022 43F00203 		orr	r3, r3, #2
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  290 000e 9BB2     		uxth	r3, r3
  291              		.loc 1 275 16 view .LVU89
  292 0010 23F00103 		bic	r3, r3, #1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 11
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 11
 
 
  293 0014 9BB2     		uxth	r3, r3
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  326              		.loc 1 298 1 is_stmt 0 view .LVU98
  327 0000 7047     		bx	lr
  328              		.cfi_endproc
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 12
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 12
 
 
  329              	.LFE956:
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  368 0000 70B5     		push	{r4, r5, r6, lr}
  369              		.cfi_def_cfa_offset 16
  370              		.cfi_offset 4, -16
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 13
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 13
 
 
  371              		.cfi_offset 5, -12
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  180:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   HAL_Delay(50U);
  411              		.loc 1 180 3 view .LVU119
  180:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****   HAL_Delay(50U);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 14
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 14
 
 
  412              		.loc 1 180 7 is_stmt 0 view .LVU120
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  194:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****     {
  452              		.loc 1 194 14 is_stmt 0 view .LVU135
  453 007c B4F85830 		ldrh	r3, [r4, #88]
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 15
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 15
 
 
  194:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c ****     {
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  497 00bc 04D9     		bls	.L17
  232:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_pcd_ex.c **** #endif /* USE_HAL_PCD_REGISTER_CALLBACKS */
  498              		.loc 1 232 5 is_stmt 1 view .LVU147
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 16
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 16
 
 
  499 00be FF21     		movs	r1, #255
@@ -931,27 +931,27 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 1
  524              		.file 6 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_usb.h"
  525              		.file 7 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_pcd.h"
  526              		.file 8 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal.h"
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s 			page 17
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccRchq8z.s 			page 17
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32wbxx_hal_pcd_ex.c
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:21     .text.HAL_PCDEx_PMAConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:27     .text.HAL_PCDEx_PMAConfig:0000000000000000 HAL_PCDEx_PMAConfig
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:101    .text.HAL_PCDEx_ActivateBCD:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:107    .text.HAL_PCDEx_ActivateBCD:0000000000000000 HAL_PCDEx_ActivateBCD
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:163    .text.HAL_PCDEx_DeActivateBCD:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:169    .text.HAL_PCDEx_DeActivateBCD:0000000000000000 HAL_PCDEx_DeActivateBCD
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:206    .text.HAL_PCDEx_ActivateLPM:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:212    .text.HAL_PCDEx_ActivateLPM:0000000000000000 HAL_PCDEx_ActivateLPM
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:259    .text.HAL_PCDEx_DeActivateLPM:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:265    .text.HAL_PCDEx_DeActivateLPM:0000000000000000 HAL_PCDEx_DeActivateLPM
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:310    .text.HAL_PCDEx_LPM_Callback:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:316    .text.HAL_PCDEx_LPM_Callback:0000000000000000 HAL_PCDEx_LPM_Callback
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:332    .text.HAL_PCDEx_BCD_Callback:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:338    .text.HAL_PCDEx_BCD_Callback:0000000000000000 HAL_PCDEx_BCD_Callback
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:354    .text.HAL_PCDEx_BCD_VBUSDetect:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9p5zuy.s:360    .text.HAL_PCDEx_BCD_VBUSDetect:0000000000000000 HAL_PCDEx_BCD_VBUSDetect
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:21     .text.HAL_PCDEx_PMAConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:27     .text.HAL_PCDEx_PMAConfig:0000000000000000 HAL_PCDEx_PMAConfig
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:101    .text.HAL_PCDEx_ActivateBCD:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:107    .text.HAL_PCDEx_ActivateBCD:0000000000000000 HAL_PCDEx_ActivateBCD
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:163    .text.HAL_PCDEx_DeActivateBCD:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:169    .text.HAL_PCDEx_DeActivateBCD:0000000000000000 HAL_PCDEx_DeActivateBCD
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:206    .text.HAL_PCDEx_ActivateLPM:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:212    .text.HAL_PCDEx_ActivateLPM:0000000000000000 HAL_PCDEx_ActivateLPM
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:259    .text.HAL_PCDEx_DeActivateLPM:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:265    .text.HAL_PCDEx_DeActivateLPM:0000000000000000 HAL_PCDEx_DeActivateLPM
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:310    .text.HAL_PCDEx_LPM_Callback:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:316    .text.HAL_PCDEx_LPM_Callback:0000000000000000 HAL_PCDEx_LPM_Callback
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:332    .text.HAL_PCDEx_BCD_Callback:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:338    .text.HAL_PCDEx_BCD_Callback:0000000000000000 HAL_PCDEx_BCD_Callback
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:354    .text.HAL_PCDEx_BCD_VBUSDetect:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccRchq8z.s:360    .text.HAL_PCDEx_BCD_VBUSDetect:0000000000000000 HAL_PCDEx_BCD_VBUSDetect
 
 UNDEFINED SYMBOLS
 HAL_GetTick

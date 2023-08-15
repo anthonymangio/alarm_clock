@@ -42,6 +42,7 @@ Core/Src/rtc.c \
 Core/Src/stm32wbxx_hal_msp.c \
 Core/Src/stm32wbxx_it.c \
 Core/Src/system_stm32wbxx.c \
+Core/Src/tim.c \
 Core/Src/usart.c \
 Core/Src/usb.c \
 Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c \

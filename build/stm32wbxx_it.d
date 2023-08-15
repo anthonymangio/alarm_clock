@@ -33,6 +33,8 @@ build/stm32wbxx_it.o: Core/Src/stm32wbxx_it.c Core/Inc/main.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_rtc.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_rtc_ex.h \
+ Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_tim.h \
+ Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_tim_ex.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_uart.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_uart_ex.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h \
@@ -74,6 +76,8 @@ Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_rcc_ex.h:
 Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_crs.h:
 Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_rtc.h:
 Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_rtc_ex.h:
+Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_tim.h:
+Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_tim_ex.h:
 Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_uart.h:
 Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_uart_ex.h:
 Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h:

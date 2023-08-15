@@ -1,5 +1,4 @@
-build/stm32wbxx_hal_gpio.o: \
- Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal_gpio.c \
+build/tim.o: Core/Src/tim.c Core/Inc/tim.h Core/Inc/main.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal.h \
  Core/Inc/stm32wbxx_hal_conf.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_dma.h \
@@ -39,6 +38,8 @@ build/stm32wbxx_hal_gpio.o: \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_uart.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_uart_ex.h \
  Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h
+Core/Inc/tim.h:
+Core/Inc/main.h:
 Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal.h:
 Core/Inc/stm32wbxx_hal_conf.h:
 Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_dma.h:

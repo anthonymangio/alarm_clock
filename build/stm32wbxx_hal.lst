@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
   28:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****          (+) Services HAL APIs
   29:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
   30:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   @endverbatim
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 2
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 2
 
 
   31:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   ******************************************************************************
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
   85:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
   86:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** /* Private function prototypes -----------------------------------------------*/
   87:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** /* Exported functions --------------------------------------------------------*/
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 3
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 3
 
 
   88:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  142:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** HAL_StatusTypeDef HAL_Init(void)
  143:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** {
  144:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   HAL_StatusTypeDef  status = HAL_OK;
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 4
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 4
 
 
  145:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   /* Configure Flash prefetch, Instruction cache, Data cache */
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  199:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
  200:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   __HAL_RCC_AHB2_FORCE_RESET();
  201:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   __HAL_RCC_AHB2_RELEASE_RESET();
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 5
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 5
 
 
  202:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
   53              		.loc 1 233 1 view .LVU3
   54 0000 7047     		bx	lr
   55              		.cfi_endproc
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 6
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 6
 
 
   56              	.LFE953:
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
   29:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****       (#) For AHB & APB peripherals, a dummy read to the peripheral register has been
   30:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****           inserted in each LL_{BUS}_GRP{x}_EnableClock() function.
   31:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 7
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 7
 
 
   32:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   @endverbatim
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
   86:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
   87:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @}
   88:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 8
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 8
 
 
   89:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
@@ -478,7 +478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  143:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #endif /* SPI2 */
  144:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_APB1_GRP1_PERIPH_I2C1           RCC_APB1ENR1_I2C1EN
  145:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #if defined(I2C3)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 9
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 9
 
 
  146:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_APB1_GRP1_PERIPH_I2C3           RCC_APB1ENR1_I2C3EN
@@ -538,7 +538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  200:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_APB3_GRP1_PERIPH_ALL            (0xFFFFFFFFU)
  201:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #define LL_APB3_GRP1_PERIPH_RF             RCC_APB3RSTR_RFRST
  202:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 10
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 10
 
 
  203:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @}
@@ -598,7 +598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  257:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  258:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @}
  259:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 11
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 11
 
 
  260:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
@@ -658,7 +658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  314:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** #endif /* SAI1 */
  315:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  316:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @}
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 12
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 12
 
 
  317:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
@@ -718,7 +718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  371:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
  372:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
  373:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 13
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 13
 
 
  374:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Check if AHB1 peripheral clock is enabled or not
@@ -778,7 +778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  428:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_AHB1_GRP1_PERIPH_TSC
  429:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @note  (*) Not supported by all the devices
  430:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @retval None
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 14
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 14
 
 
  431:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
@@ -838,7 +838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  485:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
  486:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  487:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Disable AHB1 peripherals clock during Low Power (Sleep) mode.
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 15
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 15
 
 
  488:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @rmtoll AHB1SMENR    DMA1SMEN      LL_AHB1_GRP1_DisableClockSleep\n
@@ -898,7 +898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  542:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   SET_BIT(RCC->AHB2ENR, Periphs);
  543:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   /* Delay after an RCC peripheral clock enabling */
  544:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   tmpreg = READ_BIT(RCC->AHB2ENR, Periphs);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 16
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 16
 
 
  545:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   (void)tmpreg;
@@ -958,7 +958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  599:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   CLEAR_BIT(RCC->AHB2ENR, Periphs);
  600:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
  601:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 17
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 17
 
 
  602:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
@@ -1018,7 +1018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  656:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
  657:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
  658:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 18
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 18
 
 
  659:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Enable AHB2 peripherals clock during Low Power (Sleep) mode.
@@ -1078,7 +1078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  713:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   CLEAR_BIT(RCC->AHB2SMENR, Periphs);
  714:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
  715:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 19
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 19
 
 
  716:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
@@ -1138,7 +1138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  770:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @note  (*) Not supported by all the devices
  771:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @retval uint32_t
  772:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 20
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 20
 
 
  773:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** __STATIC_INLINE uint32_t LL_AHB3_GRP1_IsEnabledClock(uint32_t Periphs)
@@ -1198,7 +1198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  827:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
  828:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
  829:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 21
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 21
 
 
  830:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Release AHB3 peripherals reset.
@@ -1258,7 +1258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  884:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @rmtoll AHB3SMENR    QUADSPISMEN   LL_AHB3_GRP1_DisableClockSleep\n
  885:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB3SMENR    PKASMEN       LL_AHB3_GRP1_DisableClockSleep\n
  886:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB3SMENR    AES2SMEN      LL_AHB3_GRP1_DisableClockSleep\n
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 22
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 22
 
 
  887:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         AHB3SMENR    RNGSMEN       LL_AHB3_GRP1_DisableClockSleep\n
@@ -1318,7 +1318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  941:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   __IO uint32_t tmpreg;
  942:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   SET_BIT(RCC->APB1ENR1, Periphs);
  943:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   /* Delay after an RCC peripheral clock enabling */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 23
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 23
 
 
  944:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   tmpreg = READ_BIT(RCC->APB1ENR1, Periphs);
@@ -1378,7 +1378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  998:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
  999:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @brief  Check if APB1 peripheral clock is enabled or not
 1000:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @rmtoll APB1ENR2     LPUART1EN     LL_APB1_GRP2_IsEnabledClock\n
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 24
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 24
 
 
 1001:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         APB1ENR2     LPTIM2EN      LL_APB1_GRP2_IsEnabledClock
@@ -1438,7 +1438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1055:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   CLEAR_BIT(RCC->APB1ENR2, Periphs);
 1056:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
 1057:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 25
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 25
 
 
 1058:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** /**
@@ -1498,7 +1498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1097:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** __STATIC_INLINE void LL_APB1_GRP2_ForceReset(uint32_t Periphs)
   95              		.loc 2 1097 22 view .LVU11
   96              	.LBB79:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 26
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 26
 
 
 1098:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** {
@@ -1558,7 +1558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  118              	.LBE80:
  189:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
  119              		.loc 1 189 3 is_stmt 1 view .LVU20
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 27
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 27
 
 
  120              	.LBB82:
@@ -1618,7 +1618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1165:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB1_GRP1_PERIPH_I2C3 (*)
 1166:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB1_GRP1_PERIPH_CRS (*)
 1167:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB1_GRP1_PERIPH_USB (*)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 28
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 28
 
 
 1168:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB1_GRP1_PERIPH_LPTIM1
@@ -1678,7 +1678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1222:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB1_GRP1_PERIPH_LPTIM1
 1223:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @note  (*) Not supported by all the devices
 1224:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   * @retval None
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 29
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 29
 
 
 1225:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   */
@@ -1738,7 +1738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1279:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   tmpreg = READ_BIT(RCC->APB2ENR, Periphs);
 1280:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   (void)tmpreg;
 1281:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 30
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 30
 
 
 1282:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** 
@@ -1798,7 +1798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1336:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         APB2RSTR     TIM1RST       LL_APB2_GRP1_ForceReset\n
 1337:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         APB2RSTR     SPI1RST       LL_APB2_GRP1_ForceReset\n
 1338:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         APB2RSTR     USART1RST     LL_APB2_GRP1_ForceReset\n
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 31
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 31
 
 
 1339:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         APB2RSTR     TIM16RST      LL_APB2_GRP1_ForceReset\n
@@ -1858,7 +1858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1380:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** __STATIC_INLINE void LL_APB2_GRP1_ReleaseReset(uint32_t Periphs)
  147              		.loc 2 1380 22 view .LVU30
  148              	.LBB87:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 32
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 32
 
 
 1381:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** {
@@ -1918,7 +1918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1424:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB2_GRP1_PERIPH_ADC (*)
 1425:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB2_GRP1_PERIPH_TIM1
 1426:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB2_GRP1_PERIPH_SPI1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 33
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 33
 
 
 1427:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   *         @arg @ref LL_APB2_GRP1_PERIPH_USART1
@@ -1978,7 +1978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  172              	.LBB91:
 1467:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h **** {
 1468:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_bus.h ****   CLEAR_BIT(RCC->APB3RSTR, Periphs);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 34
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 34
 
 
  173              		.loc 2 1468 3 view .LVU39
@@ -2038,7 +2038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  215              	.LBE96:
  201:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
  216              		.loc 1 201 3 is_stmt 1 view .LVU53
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 35
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 35
 
 
  217              	.LBB98:
@@ -2098,7 +2098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  257 0048 2046     		mov	r0, r4
  258 004a 10BD     		pop	{r4, pc}
  259              		.cfi_endproc
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 36
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 36
 
 
  260              	.LFE951:
@@ -2158,7 +2158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  267:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****       {
  268:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****         status = HAL_ERROR;
  269:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****       }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 37
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 37
 
 
  270:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****     }
@@ -2218,7 +2218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  314              		.loc 1 261 10 is_stmt 0 view .LVU84
  315 0028 0F2C     		cmp	r4, #15
  316 002a 01D9     		bls	.L15
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 38
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 38
 
 
  268:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****       }
@@ -2278,7 +2278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  365 0000 10B5     		push	{r4, lr}
  366              		.cfi_def_cfa_offset 8
  367              		.cfi_offset 4, -8
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 39
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 39
 
 
  368              		.cfi_offset 14, -4
@@ -2338,7 +2338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  412              		.weak	HAL_IncTick
  413              		.syntax unified
  414              		.thumb
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 40
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 40
 
 
  415              		.thumb_func
@@ -2398,7 +2398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  432 000a 1360     		str	r3, [r2]
  322:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** }
  433              		.loc 1 322 1 view .LVU110
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 41
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 41
 
 
  434 000c 7047     		bx	lr
@@ -2458,7 +2458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  336:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @brief This function returns a tick priority.
  337:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @retval tick priority
  338:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 42
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 42
 
 
  339:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** uint32_t HAL_GetTickPrio(void)
@@ -2518,7 +2518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  355:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   if (uwTickFreq != Freq)
  519              		.loc 1 355 3 view .LVU123
  520              		.loc 1 355 18 is_stmt 0 view .LVU124
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 43
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 43
 
 
  521 0002 084B     		ldr	r3, .L39
@@ -2578,7 +2578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  366:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****     {
  548              		.loc 1 366 8 is_stmt 0 view .LVU136
  549 0018 0028     		cmp	r0, #0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 44
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 44
 
 
  550 001a F7D0     		beq	.L35
@@ -2638,7 +2638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  597              	HAL_Delay:
  598              	.LVL36:
  599              	.LFB960:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 45
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 45
 
 
  384:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
@@ -2698,7 +2698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  406:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
  407:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   while ((HAL_GetTick() - tickstart) < wait)
  408:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 46
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 46
 
 
  409:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   }
@@ -2758,7 +2758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  426:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   CLEAR_BIT(SysTick->CTRL, SysTick_CTRL_TICKINT_Msk);
  667              		.loc 1 426 3 view .LVU161
  668 0000 4FF0E022 		mov	r2, #-536813568
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 47
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 47
 
 
  669 0004 1369     		ldr	r3, [r2, #16]
@@ -2818,7 +2818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  444:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
  445:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** /**
  446:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @brief  Returns the HAL revision
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 48
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 48
 
 
  447:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @retval version : 0xXYZR (8bits for each decimal, R for RC)
@@ -2878,7 +2878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
    9:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * Copyright (c) 2019 STMicroelectronics.
   10:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * All rights reserved.
   11:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 49
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 49
 
 
   12:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * This software is licensed under terms that can be found in the LICENSE file
@@ -2938,7 +2938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
   66:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define VREFBUF_SC1_CAL_ADDR   ((uint8_t*) (0x1FFF7530UL)) /*!<  Address of VREFBUF trimming value 
   67:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****                                                                  VREF_SC1 in STM32WB datasheet */
   68:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 50
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 50
 
 
   69:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @}
@@ -2998,7 +2998,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  123:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
  124:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_EXTI_LINE0                    (uint32_t)((0x000FU << 16U) | 0U) /*!< EXTI_POSITIO
  125:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_EXTI_LINE1                    (uint32_t)((0x00F0U << 16U) | 0U) /*!< EXTI_POSITIO
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 51
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 51
 
 
  126:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_EXTI_LINE2                    (uint32_t)((0x0F00U << 16U) | 0U) /*!< EXTI_POSITIO
@@ -3058,7 +3058,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  180:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_SRAM2WRP_PAGE16               SYSCFG_SWPR1_PAGE16      /*!< SRAM2A Write protecti
  181:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_SRAM2WRP_PAGE17               SYSCFG_SWPR1_PAGE17      /*!< SRAM2A Write protecti
  182:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_SRAM2WRP_PAGE18               SYSCFG_SWPR1_PAGE18      /*!< SRAM2A Write protecti
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 52
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 52
 
 
  183:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_SRAM2WRP_PAGE19               SYSCFG_SWPR1_PAGE19      /*!< SRAM2A Write protecti
@@ -3118,7 +3118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  237:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
  238:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_GRP1_TIM1                     SYSCFG_IMR1_TIM1IM     /*!< Enabling of interrupt f
  239:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #if defined(TIM16)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 53
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 53
 
 
  240:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_SYSCFG_GRP1_TIM16                    SYSCFG_IMR1_TIM16IM    /*!< Enabling of interrupt f
@@ -3178,7 +3178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  294:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_C2_SYSCFG_GRP1_EXTI8                 SYSCFG_C2IMR1_EXTI8IM    /*!< Enabling of interrupt
  295:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_C2_SYSCFG_GRP1_EXTI9                 SYSCFG_C2IMR1_EXTI9IM    /*!< Enabling of interrupt
  296:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_C2_SYSCFG_GRP1_EXTI10                SYSCFG_C2IMR1_EXTI10IM   /*!< Enabling of interrupt
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 54
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 54
 
 
  297:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_C2_SYSCFG_GRP1_EXTI11                SYSCFG_C2IMR1_EXTI11IM   /*!< Enabling of interrupt
@@ -3238,7 +3238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  351:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_DBGMCU_APB1_GRP1_TIM2_STOP      DBGMCU_APB1FZR1_DBG_TIM2_STOP   /*!< The counter clock o
  352:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_DBGMCU_APB1_GRP1_RTC_STOP       DBGMCU_APB1FZR1_DBG_RTC_STOP    /*!< The clock of the RT
  353:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_DBGMCU_APB1_GRP1_WWDG_STOP      DBGMCU_APB1FZR1_DBG_WWDG_STOP   /*!< The window watchdog
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 55
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 55
 
 
  354:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** #define LL_DBGMCU_APB1_GRP1_IWDG_STOP      DBGMCU_APB1FZR1_DBG_IWDG_STOP   /*!< The independent wat
@@ -3298,7 +3298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  408:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
  409:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /** @defgroup SYSTEM_LL_EC_C2_APB2_GRP1_STOP_IP DBGMCU CPU2 APB2 GRP1 STOP IP
  410:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @{
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 56
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 56
 
 
  411:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
@@ -3358,7 +3358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  465:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_REMAP_FLASH
  466:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_REMAP_SYSTEMFLASH
  467:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_REMAP_SRAM
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 57
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 57
 
 
  468:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_REMAP_QUADSPI
@@ -3418,7 +3418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  522:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
  523:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** __STATIC_INLINE void LL_SYSCFG_DisableAnalogBooster(void)
  524:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 58
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 58
 
 
  525:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   CLEAR_BIT(SYSCFG->CFGR1, SYSCFG_CFGR1_BOOSTEN);
@@ -3478,7 +3478,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  579:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_I2C_FASTMODEPLUS_PB8
  580:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_I2C_FASTMODEPLUS_PB9
  581:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_I2C_FASTMODEPLUS_I2C1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 59
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 59
 
 
  582:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_I2C_FASTMODEPLUS_I2C3
@@ -3538,7 +3538,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  636:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** {
  637:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   SET_BIT(SYSCFG->CFGR1, SYSCFG_CFGR1_FPU_IE_4);
  638:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 60
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 60
 
 
  639:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
@@ -3598,7 +3598,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  693:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval None
  694:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
  695:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** __STATIC_INLINE void LL_SYSCFG_DisableIT_FPU_IDC(void)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 61
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 61
 
 
  696:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** {
@@ -3658,7 +3658,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  750:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /**
  751:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @brief  Check if Floating Point Unit Input denormal Interrupt source is enabled or disabled.
  752:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @rmtoll SYSCFG_CFGR1 FPU_IE_4      LL_SYSCFG_IsEnabledIT_FPU_IDC
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 62
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 62
 
 
  753:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval State of bit (1 or 0).
@@ -3718,7 +3718,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  807:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** }
  808:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
  809:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 63
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 63
 
 
  810:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @brief  Get the configured defined for specific EXTI Line
@@ -3778,7 +3778,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  864:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** {
  865:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   return ((READ_BIT(SYSCFG->SCSR, SYSCFG_SCSR_SRAM2BSY) == (SYSCFG_SCSR_SRAM2BSY)) ? 1UL : 0UL);
  866:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 64
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 64
 
 
  867:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
@@ -3838,7 +3838,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  921:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** {
  922:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   return (uint32_t)(READ_BIT(SYSCFG->CFGR2, SYSCFG_CFGR2_CLL | SYSCFG_CFGR2_SPL | SYSCFG_CFGR2_PVDL
  923:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** }
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 65
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 65
 
 
  924:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
@@ -3898,7 +3898,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  978:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_SRAM2WRP_PAGE28
  979:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_SRAM2WRP_PAGE29
  980:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_SRAM2WRP_PAGE30
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 66
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 66
 
 
  981:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_SRAM2WRP_PAGE31
@@ -3958,7 +3958,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1035:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /**
 1036:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @brief  SRAM2 page write protection lock prior to erase
 1037:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @rmtoll SYSCFG_SKR   KEY           LL_SYSCFG_LockSRAM2WRP
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 67
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 67
 
 
 1038:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval None
@@ -4018,7 +4018,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1092:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_GRP2_PVM1
 1093:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_GRP2_PVM3
 1094:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_SYSCFG_GRP2_PVD
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 68
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 68
 
 
 1095:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval None
@@ -4078,7 +4078,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1149:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         SYSCFG_IMR1  TIM16IM     LL_SYSCFG_GRP1_IsEnabledIT\n
 1150:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         SYSCFG_IMR1  TIM17IM     LL_SYSCFG_GRP1_IsEnabledIT\n
 1151:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         SYSCFG_IMR1  EXTIxIM     LL_SYSCFG_GRP1_IsEnabledIT
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 69
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 69
 
 
 1152:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @param  Interrupt This parameter can be one of the following values:
@@ -4138,7 +4138,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1206:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP1_RTCALARM
 1207:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP1_RCC
 1208:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP1_FLASH
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 70
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 70
 
 
 1209:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP1_PKA
@@ -4198,7 +4198,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1263:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP2_PVM3
 1264:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP2_PVD
 1265:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP2_TSC
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 71
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 71
 
 
 1266:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP2_LCD
@@ -4258,7 +4258,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1320:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
 1321:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /**
 1322:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @brief  Disable CPU2 Interrupt Mask
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 72
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 72
 
 
 1323:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @rmtoll SYSCFG_C2IMR2  DMA1CHxIM   LL_C2_SYSCFG_GRP2_DisableIT\n
@@ -4318,7 +4318,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1377:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP1_PKA
 1378:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP1_RNG
 1379:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP1_AES1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 73
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 73
 
 
 1380:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP1_COMP
@@ -4378,7 +4378,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1434:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_C2_SYSCFG_GRP2_LCD
 1435:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval State of bit (1 or 0).
 1436:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 74
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 74
 
 
 1437:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** __STATIC_INLINE uint32_t LL_C2_SYSCFG_GRP2_IsEnabledIT(uint32_t Interrupt)
@@ -4438,7 +4438,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1491:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** __STATIC_INLINE uint32_t LL_SYSCFG_IsEnabledSecurityAccess(uint32_t SecurityAccess)
 1492:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** {
 1493:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   return ((READ_BIT(SYSCFG->SIPCR, SecurityAccess) == (SecurityAccess)) ? 1UL : 0UL);
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 75
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 75
 
 
 1494:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** }
@@ -4498,7 +4498,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  765              		.syntax unified
  766              		.thumb
  767              		.thumb_func
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 76
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 76
 
 
  769              	HAL_GetDEVID:
@@ -4558,7 +4558,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  806              		.loc 1 477 1 is_stmt 1 view -0
  807              		.cfi_startproc
  808              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 77
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 77
 
 
  809              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -4618,7 +4618,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  856              	HAL_GetUIDw2:
  857              	.LFB968:
  489:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 78
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 78
 
 
  490:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** /**
@@ -4678,7 +4678,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  520:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @brief  Enable the Debug Module during SLEEP mode
  521:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @retval None
  522:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 79
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 79
 
 
  523:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** void HAL_DBGMCU_EnableDBGSleepMode(void)
@@ -4738,7 +4738,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  919              		.loc 1 533 1 is_stmt 1 view -0
  920              		.cfi_startproc
  921              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 80
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 80
 
 
  922              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -4798,7 +4798,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  543:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   LL_DBGMCU_EnableDBGStopMode();
  959              		.loc 1 543 3 view .LVU201
  960              	.LBB112:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 81
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 81
 
 
  961              	.LBI112:
@@ -4858,7 +4858,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1558:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
 1559:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /**
 1560:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @brief  Disable the Debug Module during STOP mode
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 82
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 82
 
 
 1561:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @rmtoll DBGMCU_CR    DBG_STOP      LL_DBGMCU_DisableDBGStopMode
@@ -4918,7 +4918,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1573:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
 1574:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** __STATIC_INLINE void LL_DBGMCU_EnableDBGStandbyMode(void)
  1032              		.loc 3 1574 22 view .LVU212
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 83
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 83
 
 
  1033              	.LBB117:
@@ -4978,7 +4978,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1586:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   CLEAR_BIT(DBGMCU->CR, DBGMCU_CR_DBG_STANDBY);
  1069              		.loc 3 1586 3 view .LVU218
  1070 0000 024A     		ldr	r2, .L86
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 84
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 84
 
 
  1071 0002 5368     		ldr	r3, [r2, #4]
@@ -5038,7 +5038,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  604:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** {
  1094              		.loc 1 604 1 is_stmt 1 view -0
  1095              		.cfi_startproc
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 85
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 85
 
 
  1096              		@ args = 0, pretend = 0, frame = 0
@@ -5098,7 +5098,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  610:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
  611:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** /**
  612:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @brief  Disable CPU2 SRAM fetch (execution) (This bit can be set by Firmware
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 86
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 86
 
 
  613:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   *         and will only be reset by a Hardware reset, including a reset after Standby.)
@@ -5158,7 +5158,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1181              		@ link register save eliminated.
  628:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   return (LL_SYSCFG_IsEnabledSRAMFetch());
  1182              		.loc 1 628 3 view .LVU235
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 87
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 87
 
 
  1183              	.LBB126:
@@ -5218,7 +5218,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  645:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** {
  646:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   uint32_t TrimmingValue;
  647:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 88
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 88
 
 
  648:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   /* Check the parameters */
@@ -5278,7 +5278,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1238              	.LFE979:
  1240              		.section	.text.HAL_SYSCFG_VREFBUF_TrimmingConfig,"ax",%progbits
  1241              		.align	1
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 89
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 89
 
 
  1242              		.global	HAL_SYSCFG_VREFBUF_TrimmingConfig
@@ -5338,7 +5338,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1606:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** }
 1607:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
 1608:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /**
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 90
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 90
 
 
 1609:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @brief  Indicate if the clock for Trace port is enabled
@@ -5398,7 +5398,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1663:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP1_I2C1_STOP
 1664:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP1_I2C3_STOP
 1665:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP1_LPTIM1_STOP
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 91
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 91
 
 
 1666:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval None
@@ -5458,7 +5458,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1720:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP1_WWDG_STOP
 1721:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP1_IWDG_STOP
 1722:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP1_I2C1_STOP
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 92
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 92
 
 
 1723:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB1_GRP1_I2C3_STOP
@@ -5518,7 +5518,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1777:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB2_GRP1_TIM1_STOP
 1778:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB2_GRP1_TIM16_STOP
 1779:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   *         @arg @ref LL_DBGMCU_APB2_GRP1_TIM17_STOP
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 93
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 93
 
 
 1780:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval None
@@ -5578,7 +5578,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1834:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /** @defgroup SYSTEM_LL_EF_VREFBUF VREFBUF
 1835:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @{
 1836:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 94
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 94
 
 
 1837:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** 
@@ -5638,7 +5638,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1891:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** /**
 1892:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @brief  Get the Voltage reference scale
 1893:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @rmtoll VREFBUF_CSR  VRS           LL_VREFBUF_GetVoltageScaling
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 95
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 95
 
 
 1894:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval Returned value can be one of the following values:
@@ -5698,7 +5698,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
 1948:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @rmtoll VREFBUF_CCR  TRIM          LL_VREFBUF_SetTrimming
 1949:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @param  Value Between 0 and 0x3F
 1950:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   * @retval None
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 96
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 96
 
 
 1951:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h ****   */
@@ -5758,7 +5758,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1303              	.LBB131:
 1888:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** }
  1304              		.loc 3 1888 3 view .LVU258
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 97
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 97
 
 
  1305 0002 0A4A     		ldr	r2, .L109
@@ -5818,7 +5818,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1346              	.L109:
  1347 002c 00000140 		.word	1073807360
  1348 0030 0075FF1F 		.word	536835328
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 98
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 98
 
 
  1349              		.cfi_endproc
@@ -5878,7 +5878,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  719:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   while (READ_BIT(VREFBUF->CSR, VREFBUF_CSR_VRR) == 0U)
  1388              		.loc 1 719 3 is_stmt 1 view .LVU279
  1389              	.L112:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 99
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 99
 
 
  1390              		.loc 1 719 50 view .LVU280
@@ -5938,7 +5938,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  733:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @retval None
  734:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   */
  735:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** void HAL_SYSCFG_DisableVREFBUF(void)
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 100
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 100
 
 
  736:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** {
@@ -5998,7 +5998,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1474              	.LBB136:
  1475              	.LBI136:
  504:Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_ll_system.h **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 101
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 101
 
 
  1476              		.loc 3 504 22 view .LVU298
@@ -6058,7 +6058,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1519              	.LBE138:
  759:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** }
  1520              		.loc 1 759 1 is_stmt 0 view .LVU305
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 102
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 102
 
 
  1521 000a 7047     		bx	lr
@@ -6118,7 +6118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1565              		.align	1
  1566              		.global	HAL_SYSCFG_DisableIOVdd
  1567              		.syntax unified
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 103
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 103
 
 
  1568              		.thumb
@@ -6178,7 +6178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  785:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @note   When the system is secure (ESE = 1), this register provides write access security and c
  786:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   *         only be written by the CPU2. A write access from the CPU1 will be ignored and a bus err
  787:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   *         is generated.
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 104
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 104
 
 
  788:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c ****   * @param  SecurityAccess This parameter can be a combination of the following values:
@@ -6238,7 +6238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1647              	HAL_SYSCFG_DisableSecurityAccess:
  1648              	.LVL61:
  1649              	.LFB988:
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 105
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 105
 
 
  802:Drivers/STM32WBxx_HAL_Driver/Src/stm32wbxx_hal.c **** 
@@ -6298,7 +6298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1682              		.syntax unified
  1683              		.thumb
  1684              		.thumb_func
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 106
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 106
 
 
  1686              	HAL_SYSCFG_IsEnabledSecurityAccess:
@@ -6358,7 +6358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1719              		.loc 3 1493 79 view .LVU340
  1720 000e 0120     		movs	r0, #1
  1721 0010 7047     		bx	lr
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 107
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 107
 
 
  1722              	.L146:
@@ -6393,137 +6393,137 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 1
  1758              		.file 9 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal.h"
  1759              		.file 10 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_cortex.h"
  1760              		.file 11 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_rcc.h"
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 108
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 108
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32wbxx_hal.c
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:21     .text.HAL_MspInit:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:27     .text.HAL_MspInit:0000000000000000 HAL_MspInit
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:40     .text.HAL_MspDeInit:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:46     .text.HAL_MspDeInit:0000000000000000 HAL_MspDeInit
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:59     .text.HAL_DeInit:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:65     .text.HAL_DeInit:0000000000000000 HAL_DeInit
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:263    .text.HAL_InitTick:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:269    .text.HAL_InitTick:0000000000000000 HAL_InitTick
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:347    .text.HAL_InitTick:0000000000000048 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1735   .data.uwTickFreq:0000000000000000 uwTickFreq
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1742   .data.uwTickPrio:0000000000000000 uwTickPrio
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:353    .text.HAL_Init:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:359    .text.HAL_Init:0000000000000000 HAL_Init
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:406    .text.HAL_Init:0000000000000028 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:411    .text.HAL_IncTick:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:417    .text.HAL_IncTick:0000000000000000 HAL_IncTick
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:438    .text.HAL_IncTick:0000000000000010 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1749   .bss.uwTick:0000000000000000 uwTick
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:444    .text.HAL_GetTick:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:450    .text.HAL_GetTick:0000000000000000 HAL_GetTick
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:466    .text.HAL_GetTick:0000000000000008 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:471    .text.HAL_GetTickPrio:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:477    .text.HAL_GetTickPrio:0000000000000000 HAL_GetTickPrio
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:492    .text.HAL_GetTickPrio:0000000000000008 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:497    .text.HAL_SetTickFreq:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:503    .text.HAL_SetTickFreq:0000000000000000 HAL_SetTickFreq
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:559    .text.HAL_SetTickFreq:0000000000000024 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:565    .text.HAL_GetTickFreq:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:571    .text.HAL_GetTickFreq:0000000000000000 HAL_GetTickFreq
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:586    .text.HAL_GetTickFreq:0000000000000008 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:591    .text.HAL_Delay:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:597    .text.HAL_Delay:0000000000000000 HAL_Delay
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:649    .text.HAL_Delay:0000000000000024 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:654    .text.HAL_SuspendTick:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:660    .text.HAL_SuspendTick:0000000000000000 HAL_SuspendTick
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:678    .text.HAL_ResumeTick:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:684    .text.HAL_ResumeTick:0000000000000000 HAL_ResumeTick
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:702    .text.HAL_GetHalVersion:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:708    .text.HAL_GetHalVersion:0000000000000000 HAL_GetHalVersion
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:722    .text.HAL_GetHalVersion:0000000000000004 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:727    .text.HAL_GetREVID:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:733    .text.HAL_GetREVID:0000000000000000 HAL_GetREVID
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:758    .text.HAL_GetREVID:0000000000000008 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:763    .text.HAL_GetDEVID:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:769    .text.HAL_GetDEVID:0000000000000000 HAL_GetDEVID
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:793    .text.HAL_GetDEVID:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:798    .text.HAL_GetUIDw0:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:804    .text.HAL_GetUIDw0:0000000000000000 HAL_GetUIDw0
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:819    .text.HAL_GetUIDw0:0000000000000008 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:824    .text.HAL_GetUIDw1:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:830    .text.HAL_GetUIDw1:0000000000000000 HAL_GetUIDw1
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:845    .text.HAL_GetUIDw1:0000000000000008 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:850    .text.HAL_GetUIDw2:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:856    .text.HAL_GetUIDw2:0000000000000000 HAL_GetUIDw2
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:871    .text.HAL_GetUIDw2:0000000000000008 $d
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 109
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:21     .text.HAL_MspInit:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:27     .text.HAL_MspInit:0000000000000000 HAL_MspInit
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:40     .text.HAL_MspDeInit:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:46     .text.HAL_MspDeInit:0000000000000000 HAL_MspDeInit
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:59     .text.HAL_DeInit:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:65     .text.HAL_DeInit:0000000000000000 HAL_DeInit
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:263    .text.HAL_InitTick:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:269    .text.HAL_InitTick:0000000000000000 HAL_InitTick
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:347    .text.HAL_InitTick:0000000000000048 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1735   .data.uwTickFreq:0000000000000000 uwTickFreq
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1742   .data.uwTickPrio:0000000000000000 uwTickPrio
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:353    .text.HAL_Init:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:359    .text.HAL_Init:0000000000000000 HAL_Init
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:406    .text.HAL_Init:0000000000000028 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:411    .text.HAL_IncTick:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:417    .text.HAL_IncTick:0000000000000000 HAL_IncTick
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:438    .text.HAL_IncTick:0000000000000010 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1749   .bss.uwTick:0000000000000000 uwTick
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:444    .text.HAL_GetTick:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:450    .text.HAL_GetTick:0000000000000000 HAL_GetTick
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:466    .text.HAL_GetTick:0000000000000008 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:471    .text.HAL_GetTickPrio:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:477    .text.HAL_GetTickPrio:0000000000000000 HAL_GetTickPrio
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:492    .text.HAL_GetTickPrio:0000000000000008 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:497    .text.HAL_SetTickFreq:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:503    .text.HAL_SetTickFreq:0000000000000000 HAL_SetTickFreq
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:559    .text.HAL_SetTickFreq:0000000000000024 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:565    .text.HAL_GetTickFreq:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:571    .text.HAL_GetTickFreq:0000000000000000 HAL_GetTickFreq
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:586    .text.HAL_GetTickFreq:0000000000000008 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:591    .text.HAL_Delay:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:597    .text.HAL_Delay:0000000000000000 HAL_Delay
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:649    .text.HAL_Delay:0000000000000024 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:654    .text.HAL_SuspendTick:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:660    .text.HAL_SuspendTick:0000000000000000 HAL_SuspendTick
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:678    .text.HAL_ResumeTick:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:684    .text.HAL_ResumeTick:0000000000000000 HAL_ResumeTick
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:702    .text.HAL_GetHalVersion:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:708    .text.HAL_GetHalVersion:0000000000000000 HAL_GetHalVersion
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:722    .text.HAL_GetHalVersion:0000000000000004 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:727    .text.HAL_GetREVID:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:733    .text.HAL_GetREVID:0000000000000000 HAL_GetREVID
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:758    .text.HAL_GetREVID:0000000000000008 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:763    .text.HAL_GetDEVID:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:769    .text.HAL_GetDEVID:0000000000000000 HAL_GetDEVID
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:793    .text.HAL_GetDEVID:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:798    .text.HAL_GetUIDw0:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:804    .text.HAL_GetUIDw0:0000000000000000 HAL_GetUIDw0
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:819    .text.HAL_GetUIDw0:0000000000000008 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:824    .text.HAL_GetUIDw1:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:830    .text.HAL_GetUIDw1:0000000000000000 HAL_GetUIDw1
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:845    .text.HAL_GetUIDw1:0000000000000008 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:850    .text.HAL_GetUIDw2:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:856    .text.HAL_GetUIDw2:0000000000000000 HAL_GetUIDw2
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:871    .text.HAL_GetUIDw2:0000000000000008 $d
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 109
 
 
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:876    .text.HAL_DBGMCU_EnableDBGSleepMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:882    .text.HAL_DBGMCU_EnableDBGSleepMode:0000000000000000 HAL_DBGMCU_EnableDBGSleepMode
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:906    .text.HAL_DBGMCU_EnableDBGSleepMode:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:911    .text.HAL_DBGMCU_DisableDBGSleepMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:917    .text.HAL_DBGMCU_DisableDBGSleepMode:0000000000000000 HAL_DBGMCU_DisableDBGSleepMode
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:941    .text.HAL_DBGMCU_DisableDBGSleepMode:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:946    .text.HAL_DBGMCU_EnableDBGStopMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:952    .text.HAL_DBGMCU_EnableDBGStopMode:0000000000000000 HAL_DBGMCU_EnableDBGStopMode
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:976    .text.HAL_DBGMCU_EnableDBGStopMode:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:981    .text.HAL_DBGMCU_DisableDBGStopMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:987    .text.HAL_DBGMCU_DisableDBGStopMode:0000000000000000 HAL_DBGMCU_DisableDBGStopMode
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1011   .text.HAL_DBGMCU_DisableDBGStopMode:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1016   .text.HAL_DBGMCU_EnableDBGStandbyMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1022   .text.HAL_DBGMCU_EnableDBGStandbyMode:0000000000000000 HAL_DBGMCU_EnableDBGStandbyMode
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1046   .text.HAL_DBGMCU_EnableDBGStandbyMode:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1051   .text.HAL_DBGMCU_DisableDBGStandbyMode:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1057   .text.HAL_DBGMCU_DisableDBGStandbyMode:0000000000000000 HAL_DBGMCU_DisableDBGStandbyMode
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1081   .text.HAL_DBGMCU_DisableDBGStandbyMode:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1086   .text.HAL_SYSCFG_SRAM2Erase:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1092   .text.HAL_SYSCFG_SRAM2Erase:0000000000000000 HAL_SYSCFG_SRAM2Erase
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1129   .text.HAL_SYSCFG_SRAM2Erase:0000000000000014 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1134   .text.HAL_SYSCFG_DisableSRAMFetch:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1140   .text.HAL_SYSCFG_DisableSRAMFetch:0000000000000000 HAL_SYSCFG_DisableSRAMFetch
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1164   .text.HAL_SYSCFG_DisableSRAMFetch:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1169   .text.HAL_SYSCFG_IsEnabledSRAMFetch:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1175   .text.HAL_SYSCFG_IsEnabledSRAMFetch:0000000000000000 HAL_SYSCFG_IsEnabledSRAMFetch
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1205   .text.HAL_SYSCFG_IsEnabledSRAMFetch:0000000000000010 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1210   .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1216   .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig:0000000000000000 HAL_SYSCFG_VREFBUF_HighImpedanceConfig
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1236   .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig:0000000000000010 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1241   .text.HAL_SYSCFG_VREFBUF_TrimmingConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1247   .text.HAL_SYSCFG_VREFBUF_TrimmingConfig:0000000000000000 HAL_SYSCFG_VREFBUF_TrimmingConfig
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1273   .text.HAL_SYSCFG_VREFBUF_TrimmingConfig:0000000000000008 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1278   .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1284   .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig:0000000000000000 HAL_SYSCFG_VREFBUF_VoltageScalingConfig
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1347   .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig:000000000000002c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1353   .text.HAL_SYSCFG_EnableVREFBUF:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1359   .text.HAL_SYSCFG_EnableVREFBUF:0000000000000000 HAL_SYSCFG_EnableVREFBUF
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1420   .text.HAL_SYSCFG_EnableVREFBUF:0000000000000030 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1425   .text.HAL_SYSCFG_DisableVREFBUF:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1431   .text.HAL_SYSCFG_DisableVREFBUF:0000000000000000 HAL_SYSCFG_DisableVREFBUF
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1455   .text.HAL_SYSCFG_DisableVREFBUF:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1460   .text.HAL_SYSCFG_EnableIOBooster:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1466   .text.HAL_SYSCFG_EnableIOBooster:0000000000000000 HAL_SYSCFG_EnableIOBooster
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1490   .text.HAL_SYSCFG_EnableIOBooster:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1495   .text.HAL_SYSCFG_DisableIOBooster:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1501   .text.HAL_SYSCFG_DisableIOBooster:0000000000000000 HAL_SYSCFG_DisableIOBooster
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1525   .text.HAL_SYSCFG_DisableIOBooster:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1530   .text.HAL_SYSCFG_EnableIOVdd:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1536   .text.HAL_SYSCFG_EnableIOVdd:0000000000000000 HAL_SYSCFG_EnableIOVdd
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1560   .text.HAL_SYSCFG_EnableIOVdd:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1565   .text.HAL_SYSCFG_DisableIOVdd:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1571   .text.HAL_SYSCFG_DisableIOVdd:0000000000000000 HAL_SYSCFG_DisableIOVdd
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1595   .text.HAL_SYSCFG_DisableIOVdd:000000000000000c $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1600   .text.HAL_SYSCFG_EnableSecurityAccess:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1606   .text.HAL_SYSCFG_EnableSecurityAccess:0000000000000000 HAL_SYSCFG_EnableSecurityAccess
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1636   .text.HAL_SYSCFG_EnableSecurityAccess:0000000000000010 $d
-ARM GAS  C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s 			page 110
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:876    .text.HAL_DBGMCU_EnableDBGSleepMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:882    .text.HAL_DBGMCU_EnableDBGSleepMode:0000000000000000 HAL_DBGMCU_EnableDBGSleepMode
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:906    .text.HAL_DBGMCU_EnableDBGSleepMode:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:911    .text.HAL_DBGMCU_DisableDBGSleepMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:917    .text.HAL_DBGMCU_DisableDBGSleepMode:0000000000000000 HAL_DBGMCU_DisableDBGSleepMode
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:941    .text.HAL_DBGMCU_DisableDBGSleepMode:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:946    .text.HAL_DBGMCU_EnableDBGStopMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:952    .text.HAL_DBGMCU_EnableDBGStopMode:0000000000000000 HAL_DBGMCU_EnableDBGStopMode
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:976    .text.HAL_DBGMCU_EnableDBGStopMode:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:981    .text.HAL_DBGMCU_DisableDBGStopMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:987    .text.HAL_DBGMCU_DisableDBGStopMode:0000000000000000 HAL_DBGMCU_DisableDBGStopMode
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1011   .text.HAL_DBGMCU_DisableDBGStopMode:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1016   .text.HAL_DBGMCU_EnableDBGStandbyMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1022   .text.HAL_DBGMCU_EnableDBGStandbyMode:0000000000000000 HAL_DBGMCU_EnableDBGStandbyMode
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1046   .text.HAL_DBGMCU_EnableDBGStandbyMode:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1051   .text.HAL_DBGMCU_DisableDBGStandbyMode:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1057   .text.HAL_DBGMCU_DisableDBGStandbyMode:0000000000000000 HAL_DBGMCU_DisableDBGStandbyMode
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1081   .text.HAL_DBGMCU_DisableDBGStandbyMode:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1086   .text.HAL_SYSCFG_SRAM2Erase:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1092   .text.HAL_SYSCFG_SRAM2Erase:0000000000000000 HAL_SYSCFG_SRAM2Erase
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1129   .text.HAL_SYSCFG_SRAM2Erase:0000000000000014 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1134   .text.HAL_SYSCFG_DisableSRAMFetch:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1140   .text.HAL_SYSCFG_DisableSRAMFetch:0000000000000000 HAL_SYSCFG_DisableSRAMFetch
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1164   .text.HAL_SYSCFG_DisableSRAMFetch:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1169   .text.HAL_SYSCFG_IsEnabledSRAMFetch:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1175   .text.HAL_SYSCFG_IsEnabledSRAMFetch:0000000000000000 HAL_SYSCFG_IsEnabledSRAMFetch
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1205   .text.HAL_SYSCFG_IsEnabledSRAMFetch:0000000000000010 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1210   .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1216   .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig:0000000000000000 HAL_SYSCFG_VREFBUF_HighImpedanceConfig
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1236   .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig:0000000000000010 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1241   .text.HAL_SYSCFG_VREFBUF_TrimmingConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1247   .text.HAL_SYSCFG_VREFBUF_TrimmingConfig:0000000000000000 HAL_SYSCFG_VREFBUF_TrimmingConfig
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1273   .text.HAL_SYSCFG_VREFBUF_TrimmingConfig:0000000000000008 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1278   .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1284   .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig:0000000000000000 HAL_SYSCFG_VREFBUF_VoltageScalingConfig
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1347   .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig:000000000000002c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1353   .text.HAL_SYSCFG_EnableVREFBUF:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1359   .text.HAL_SYSCFG_EnableVREFBUF:0000000000000000 HAL_SYSCFG_EnableVREFBUF
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1420   .text.HAL_SYSCFG_EnableVREFBUF:0000000000000030 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1425   .text.HAL_SYSCFG_DisableVREFBUF:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1431   .text.HAL_SYSCFG_DisableVREFBUF:0000000000000000 HAL_SYSCFG_DisableVREFBUF
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1455   .text.HAL_SYSCFG_DisableVREFBUF:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1460   .text.HAL_SYSCFG_EnableIOBooster:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1466   .text.HAL_SYSCFG_EnableIOBooster:0000000000000000 HAL_SYSCFG_EnableIOBooster
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1490   .text.HAL_SYSCFG_EnableIOBooster:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1495   .text.HAL_SYSCFG_DisableIOBooster:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1501   .text.HAL_SYSCFG_DisableIOBooster:0000000000000000 HAL_SYSCFG_DisableIOBooster
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1525   .text.HAL_SYSCFG_DisableIOBooster:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1530   .text.HAL_SYSCFG_EnableIOVdd:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1536   .text.HAL_SYSCFG_EnableIOVdd:0000000000000000 HAL_SYSCFG_EnableIOVdd
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1560   .text.HAL_SYSCFG_EnableIOVdd:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1565   .text.HAL_SYSCFG_DisableIOVdd:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1571   .text.HAL_SYSCFG_DisableIOVdd:0000000000000000 HAL_SYSCFG_DisableIOVdd
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1595   .text.HAL_SYSCFG_DisableIOVdd:000000000000000c $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1600   .text.HAL_SYSCFG_EnableSecurityAccess:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1606   .text.HAL_SYSCFG_EnableSecurityAccess:0000000000000000 HAL_SYSCFG_EnableSecurityAccess
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1636   .text.HAL_SYSCFG_EnableSecurityAccess:0000000000000010 $d
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s 			page 110
 
 
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1641   .text.HAL_SYSCFG_DisableSecurityAccess:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1647   .text.HAL_SYSCFG_DisableSecurityAccess:0000000000000000 HAL_SYSCFG_DisableSecurityAccess
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1675   .text.HAL_SYSCFG_DisableSecurityAccess:0000000000000010 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1680   .text.HAL_SYSCFG_IsEnabledSecurityAccess:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1686   .text.HAL_SYSCFG_IsEnabledSecurityAccess:0000000000000000 HAL_SYSCFG_IsEnabledSecurityAccess
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1725   .text.HAL_SYSCFG_IsEnabledSecurityAccess:0000000000000014 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1739   .data.uwTickPrio:0000000000000000 $d
-C:\Users\antho\AppData\Local\Temp\ccg8iX2U.s:1746   .bss.uwTick:0000000000000000 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1641   .text.HAL_SYSCFG_DisableSecurityAccess:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1647   .text.HAL_SYSCFG_DisableSecurityAccess:0000000000000000 HAL_SYSCFG_DisableSecurityAccess
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1675   .text.HAL_SYSCFG_DisableSecurityAccess:0000000000000010 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1680   .text.HAL_SYSCFG_IsEnabledSecurityAccess:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1686   .text.HAL_SYSCFG_IsEnabledSecurityAccess:0000000000000000 HAL_SYSCFG_IsEnabledSecurityAccess
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1725   .text.HAL_SYSCFG_IsEnabledSecurityAccess:0000000000000014 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1739   .data.uwTickPrio:0000000000000000 $d
+C:\Users\antho\AppData\Local\Temp\ccuXOjm1.s:1746   .bss.uwTick:0000000000000000 $d
 
 UNDEFINED SYMBOLS
 HAL_RCC_GetHCLKFreq

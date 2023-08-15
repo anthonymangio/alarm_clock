@@ -1,4 +1,4 @@
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 1
 
 
    1              		.cpu cortex-m4
@@ -58,7 +58,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
   28:Core/Src/stm32wbxx_it.c **** /* USER CODE BEGIN TD */
   29:Core/Src/stm32wbxx_it.c **** 
   30:Core/Src/stm32wbxx_it.c **** /* USER CODE END TD */
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 2
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 2
 
 
   31:Core/Src/stm32wbxx_it.c **** 
@@ -88,7 +88,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
   55:Core/Src/stm32wbxx_it.c **** /* USER CODE END 0 */
   56:Core/Src/stm32wbxx_it.c **** 
   57:Core/Src/stm32wbxx_it.c **** /* External variables --------------------------------------------------------*/
-  58:Core/Src/stm32wbxx_it.c **** 
+  58:Core/Src/stm32wbxx_it.c **** extern RTC_HandleTypeDef hrtc;
   59:Core/Src/stm32wbxx_it.c **** /* USER CODE BEGIN EV */
   60:Core/Src/stm32wbxx_it.c **** 
   61:Core/Src/stm32wbxx_it.c **** /* USER CODE END EV */
@@ -118,7 +118,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
   77:Core/Src/stm32wbxx_it.c ****   }
   37              		.loc 1 77 3 discriminator 1 view .LVU2
   75:Core/Src/stm32wbxx_it.c ****   {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 3
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 3
 
 
   38              		.loc 1 75 9 discriminator 1 view .LVU3
@@ -178,7 +178,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
   98:Core/Src/stm32wbxx_it.c ****   */
   99:Core/Src/stm32wbxx_it.c **** void MemManage_Handler(void)
  100:Core/Src/stm32wbxx_it.c **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 4
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 4
 
 
   75              		.loc 1 100 1 view -0
@@ -238,7 +238,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
  119:Core/Src/stm32wbxx_it.c ****   {
  107              		.loc 1 119 9 discriminator 1 view .LVU15
  108 0000 FEE7     		b	.L8
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 5
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 5
 
 
  109              		.cfi_endproc
@@ -298,7 +298,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
  144              		.loc 1 145 1 view -0
  145              		.cfi_startproc
  146              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 6
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 6
 
 
  147              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -358,7 +358,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
  169:Core/Src/stm32wbxx_it.c ****   */
  170:Core/Src/stm32wbxx_it.c **** void PendSV_Handler(void)
  171:Core/Src/stm32wbxx_it.c **** {
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 7
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 7
 
 
  182              		.loc 1 171 1 view -0
@@ -418,7 +418,7 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
  218              		.align	1
  219              		.global	EXTI9_5_IRQHandler
  220              		.syntax unified
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 8
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 8
 
 
  221              		.thumb
@@ -477,41 +477,91 @@ ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 1
  251 001e 08BD     		pop	{r3, pc}
  252              		.cfi_endproc
  253              	.LFE959:
- 255              		.text
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 9
+ 255              		.section	.text.RTC_Alarm_IRQHandler,"ax",%progbits
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 9
 
 
- 256              	.Letext0:
- 257              		.file 2 "c:\\users\\antho\\appdata\\roaming\\code\\user\\globalstorage\\bmd.stm32-for-vscode\\@xpa
- 258              		.file 3 "c:\\users\\antho\\appdata\\roaming\\code\\user\\globalstorage\\bmd.stm32-for-vscode\\@xpa
- 259              		.file 4 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_gpio.h"
- 260              		.file 5 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal.h"
-ARM GAS  C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s 			page 10
+ 256              		.align	1
+ 257              		.global	RTC_Alarm_IRQHandler
+ 258              		.syntax unified
+ 259              		.thumb
+ 260              		.thumb_func
+ 262              	RTC_Alarm_IRQHandler:
+ 263              	.LFB960:
+ 217:Core/Src/stm32wbxx_it.c **** 
+ 218:Core/Src/stm32wbxx_it.c **** /**
+ 219:Core/Src/stm32wbxx_it.c ****   * @brief This function handles RTC A and B alarm interrupt through EXTI line 17.
+ 220:Core/Src/stm32wbxx_it.c ****   */
+ 221:Core/Src/stm32wbxx_it.c **** void RTC_Alarm_IRQHandler(void)
+ 222:Core/Src/stm32wbxx_it.c **** {
+ 264              		.loc 1 222 1 is_stmt 1 view -0
+ 265              		.cfi_startproc
+ 266              		@ args = 0, pretend = 0, frame = 0
+ 267              		@ frame_needed = 0, uses_anonymous_args = 0
+ 268 0000 08B5     		push	{r3, lr}
+ 269              		.cfi_def_cfa_offset 8
+ 270              		.cfi_offset 3, -8
+ 271              		.cfi_offset 14, -4
+ 223:Core/Src/stm32wbxx_it.c ****   /* USER CODE BEGIN RTC_Alarm_IRQn 0 */
+ 224:Core/Src/stm32wbxx_it.c **** 
+ 225:Core/Src/stm32wbxx_it.c ****   /* USER CODE END RTC_Alarm_IRQn 0 */
+ 226:Core/Src/stm32wbxx_it.c ****   HAL_RTC_AlarmIRQHandler(&hrtc);
+ 272              		.loc 1 226 3 view .LVU36
+ 273 0002 0248     		ldr	r0, .L20
+ 274 0004 FFF7FEFF 		bl	HAL_RTC_AlarmIRQHandler
+ 275              	.LVL5:
+ 227:Core/Src/stm32wbxx_it.c ****   /* USER CODE BEGIN RTC_Alarm_IRQn 1 */
+ 228:Core/Src/stm32wbxx_it.c **** 
+ 229:Core/Src/stm32wbxx_it.c ****   /* USER CODE END RTC_Alarm_IRQn 1 */
+ 230:Core/Src/stm32wbxx_it.c **** }
+ 276              		.loc 1 230 1 is_stmt 0 view .LVU37
+ 277 0008 08BD     		pop	{r3, pc}
+ 278              	.L21:
+ 279 000a 00BF     		.align	2
+ 280              	.L20:
+ 281 000c 00000000 		.word	hrtc
+ 282              		.cfi_endproc
+ 283              	.LFE960:
+ 285              		.text
+ 286              	.Letext0:
+ 287              		.file 2 "c:\\users\\antho\\appdata\\roaming\\code\\user\\globalstorage\\bmd.stm32-for-vscode\\@xpa
+ 288              		.file 3 "c:\\users\\antho\\appdata\\roaming\\code\\user\\globalstorage\\bmd.stm32-for-vscode\\@xpa
+ 289              		.file 4 "Drivers/CMSIS/Device/ST/STM32WBxx/Include/stm32wb55xx.h"
+ 290              		.file 5 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_def.h"
+ 291              		.file 6 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_rtc.h"
+ 292              		.file 7 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal_gpio.h"
+ 293              		.file 8 "Drivers/STM32WBxx_HAL_Driver/Inc/stm32wbxx_hal.h"
+ARM GAS  C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s 			page 10
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 stm32wbxx_it.c
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:21     .text.NMI_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:27     .text.NMI_Handler:0000000000000000 NMI_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:44     .text.HardFault_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:50     .text.HardFault_Handler:0000000000000000 HardFault_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:67     .text.MemManage_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:73     .text.MemManage_Handler:0000000000000000 MemManage_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:90     .text.BusFault_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:96     .text.BusFault_Handler:0000000000000000 BusFault_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:113    .text.UsageFault_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:119    .text.UsageFault_Handler:0000000000000000 UsageFault_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:136    .text.SVC_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:142    .text.SVC_Handler:0000000000000000 SVC_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:155    .text.DebugMon_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:161    .text.DebugMon_Handler:0000000000000000 DebugMon_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:174    .text.PendSV_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:180    .text.PendSV_Handler:0000000000000000 PendSV_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:193    .text.SysTick_Handler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:199    .text.SysTick_Handler:0000000000000000 SysTick_Handler
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:218    .text.EXTI9_5_IRQHandler:0000000000000000 $t
-C:\Users\antho\AppData\Local\Temp\cc9Vi8JG.s:224    .text.EXTI9_5_IRQHandler:0000000000000000 EXTI9_5_IRQHandler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:21     .text.NMI_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:27     .text.NMI_Handler:0000000000000000 NMI_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:44     .text.HardFault_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:50     .text.HardFault_Handler:0000000000000000 HardFault_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:67     .text.MemManage_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:73     .text.MemManage_Handler:0000000000000000 MemManage_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:90     .text.BusFault_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:96     .text.BusFault_Handler:0000000000000000 BusFault_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:113    .text.UsageFault_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:119    .text.UsageFault_Handler:0000000000000000 UsageFault_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:136    .text.SVC_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:142    .text.SVC_Handler:0000000000000000 SVC_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:155    .text.DebugMon_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:161    .text.DebugMon_Handler:0000000000000000 DebugMon_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:174    .text.PendSV_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:180    .text.PendSV_Handler:0000000000000000 PendSV_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:193    .text.SysTick_Handler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:199    .text.SysTick_Handler:0000000000000000 SysTick_Handler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:218    .text.EXTI9_5_IRQHandler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:224    .text.EXTI9_5_IRQHandler:0000000000000000 EXTI9_5_IRQHandler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:256    .text.RTC_Alarm_IRQHandler:0000000000000000 $t
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:262    .text.RTC_Alarm_IRQHandler:0000000000000000 RTC_Alarm_IRQHandler
+C:\Users\antho\AppData\Local\Temp\ccoqw3DA.s:281    .text.RTC_Alarm_IRQHandler:000000000000000c $d
 
 UNDEFINED SYMBOLS
 HAL_IncTick
 HAL_GPIO_EXTI_IRQHandler
+HAL_RTC_AlarmIRQHandler
+hrtc
